@@ -8,7 +8,7 @@
 ### 🌱 Professional experience:
 
 - **Systems Analyst in Agropad,São Paulo, Brazil:** Front-end with Angular and Back-End with C#, from a marketplace and microservices with Spring Boot.
-- **Full Stack Java Systems Analyst in Bradesco Bank, São Paulo, Brazil:** Working with java web and applications.
+- **Full Stack Java Systems Analyst in Bank, São Paulo, Brazil:** Working with java web and applications.
 
 #### 💞️ My contributions:
 
