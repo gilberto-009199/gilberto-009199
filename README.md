@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Gilberto R.
+# 👋 Hi, I’m Gil.
 
 > Student of Computer Science, Probabilistic Models and Computer Music.                                            
 > Computer Science (IMPACTA) Bachelor's degre (2020-2024), DevOps (ITB) (2015-2017), FullStack(SENAI) (2016-2018). 
