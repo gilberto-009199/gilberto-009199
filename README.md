@@ -13,6 +13,8 @@
 #### 💞️ My contributions:
 
 - [**Torrent for Java**](https://github.com/gilberto-009199/MyTorrent) - Torrent client implemented in java, reference project for the implementation of the BitTorrent protocol. 
+- [**HelpMatch**](https://github.com/Javeiros-brasil/helpmatch-backend) - HelpMatch is an app that connects people who need services with people who can offer services.
+- [**Install-XYZ**](https://github.com/backend-br/como-instalar-xyz) - Repository with various tutorials to install various things on various operating systems
 - [**WebTorrent Client**](https://github.com/gilberto-009199/MyCube) - Desktop project in electron and react, with the implementation of webtorrent in electron to create a video player that downloads videos in torrent and plays them.
 - [**MyOS**](https://github.com/gilberto-009199/MyOS) - Small Operating System for studies.
 - [**MiniErp**](https://github.com/gilberto-009199/minierp) - Minimum structure of an erp for a small company.
