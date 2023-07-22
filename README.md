@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Gil.
 
-> Student of Computer Science, Probabilistic Models and Computer Music.                                            
+> Student of Computer Science, Probabilistic Models.                                            
 > Computer Science (IMPACTA) Bachelor's degre (2020-2024), DevOps (ITB) (2015-2017), FullStack(SENAI) (2016-2018). 
 
 <!--- [![GitHub Game of Life](https://github4life.herokuapp.com/gilberto-009199.gif?z=6)](https://github4life.herokuapp.com/gilberto-009199) -->
