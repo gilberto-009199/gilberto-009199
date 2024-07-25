@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Gil.
+# 👋 Hi.
 
 > Student of Computer Science.                                   
 > Computer Science (IMPACTA) Bachelor's degre (2020-2024), DevOps (ITB) (2015-2017), FullStack(SENAI) (2016-2018). 
