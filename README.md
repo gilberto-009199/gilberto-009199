@@ -31,9 +31,8 @@ https://www.holopin.io/@gilberto009199
 [<img alt="badge of Java HackerRanks 5 starts" align="right" width="100" height="100" src="https://github.com/user-attachments/assets/a2a523f6-1c89-442c-92e1-cbf240910479">](
 https://www.hackerrank.com/profile/gilberto_tec
 )
+[<img alt="Count Visiteds" src="https://profile-counter.glitch.me/gilberto-009199/count.svg">](https://profile-counter.glitch.me/gilberto-009199/count.svg)
 
- 
-![Visits](https://profile-counter.glitch.me/gilberto-009199/count.svg)
 
 <!---
 gilberto-009199/gilberto-009199 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
