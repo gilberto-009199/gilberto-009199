@@ -20,6 +20,8 @@
 #### 📫 How to reach me:
 
 - [gilberto.tec@vivaldi.net](mailto:gilberto.tec@vivaldi.net)
+- [Perfi Wikipedia](https://pt.wikipedia.org/wiki/Especial:Contribui%C3%A7%C3%B5es/Tel_front)
+- [Perfil Stackoverflow](https://stackoverflow.com/users/12253435/gil)
 
 [<img alt="badge of Dapr Community Supporter" align="right" width="100" height="100" src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG80MmhnanIxOTg2ODBmbWs1ZGd6Y3dyOSIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19">](
 https://www.holopin.io/@gilberto009199
