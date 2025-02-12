@@ -15,7 +15,6 @@
 - [**Install-XYZ**](https://github.com/backend-br/como-instalar-xyz) - Repository with various tutorials to install various things on various operating systems
 - [**WebTorrent Client**](https://github.com/gilberto-009199/MyCube) - Desktop project in electron and react, with the implementation of webtorrent in electron to create a video player that downloads videos in torrent and plays them.
 - [**MyOS**](https://github.com/gilberto-009199/MyOS) - Small Operating System for studies.
-- [**MiniErp**](https://github.com/gilberto-009199/minierp) - Minimum structure of an erp for a small company.
 
 #### 📫 How to reach me:
 
