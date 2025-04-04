@@ -10,6 +10,7 @@
 <!---
 ### 🌱 Experiência Profissional:
 
+
 - **Analista Full Stack em Startup, São Paulo, Brasil:** Front-end com Angular e Back-End com C#, em um marketplace e microservices com Spring Boot.
 <br/><small>
         <strong>![Spring Boot](./spring16x16.svg) Spring Boot</strong> 
