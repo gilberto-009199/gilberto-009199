@@ -36,14 +36,15 @@ __English__ | [Português](https://github.com/gilberto-009199/gilberto-009199/bl
 
 #### 🌱 Recent Activities:
 
-- [**BackEnd Anotai**](https://github.com/gilberto-009199/desafio-anotai-backend-aws) -
+- [**BackEnd Anotai**](https://github.com/gilberto-009199/desafio-anotai-backend-aws) - API for a product catalog management system in a marketplace application with S3 and SQS for catalog
 <br/><small>
         <strong>![Spring Boot](./spring16x16.svg) Spring Boot</strong>
-        <strong>![Docker](./docker16x16.svg) Docker</strong> 
+        <strong>![Docker](./docker16x16.svg) Docker</strong>
+        <strong>![Docker](./mongodb.svg) MongoDB</strong>
         <strong>![AWS](./cloud16x16.svg) AWS</strong>
         <strong>![S3](./Arch_Amazon-Simple-Storage-Service_16.svg) S3 Bucket</strong>
         <strong>![SQS](https://raw.githubusercontent.com/gilberto-009199/gilberto-009199/refs/heads/main/Arch_Amazon-Simple-Queue-Service_16.svg) SQS </strong>
-        <strong>![C#](./terraform16x16.svg) Terraform</strong>
+        <strong>![Terraform](./terraform16x16.svg) Terraform</strong>
       </small>
 - [**BackEnd UolHost**](https://github.com/gilberto-009199/desafio-uolhost-backend) -
 <br/><small>
