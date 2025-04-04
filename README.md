@@ -8,7 +8,10 @@
 ### 🌱 Professional Experience:
 
 - **Systems Analyst in Agropad,São Paulo, Brazil:** Front-end with Angular and Back-End with C#, from a marketplace and microservices with Spring Boot.
-<br>  <strong>![Spring Boot](./spring16x16.svg) Spring Boot</strong> <strong>![Spring Boot](./java16x16.svg) Java</strong> `+ C#` `+ Entity Framework` `+ Angular` `+ Angular Material`
+  - <strong>![Spring Boot](./spring16x16.svg) Spring Boot</strong>
+  - <strong>![Spring Boot](./java16x16.svg) Java</strong>
+  - <strong>![C#](./c-sharp16x16.svg) C#</strong>
+  - <strong>![Angular](./angularjs.svg) Angular</strong>
 
 - **Full Stack Java Systems Analyst in Bank, São Paulo, Brazil:** Working with java web and applications.
 <br>  `+ Spring Boot` `+ Java` `+ Servlet` `+ JSP/JSF` `+ TagLib` 
