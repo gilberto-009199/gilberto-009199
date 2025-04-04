@@ -36,7 +36,7 @@ __English__ | [Português](https://github.com/gilberto-009199/gilberto-009199/bl
 
 #### 🌱 Recent Activities:
 
-- [**BackEnd Anotai**](https://github.com/gilberto-009199/desafio-anotai-backend-aws) - API for a product catalog management system in a marketplace application with S3 and SQS for catalog
+- [**BackEnd Anotai**](https://github.com/gilberto-009199/desafio-anotai-backend-aws) - API for a product catalog management system in a marketplace application with S3 and SQS for catalog;
 <br/><small>
         <strong>![Spring Boot](./spring16x16.svg) Spring Boot</strong>
         <strong>![Docker](./docker16x16.svg) Docker</strong>
@@ -46,31 +46,31 @@ __English__ | [Português](https://github.com/gilberto-009199/gilberto-009199/bl
         <strong>![SQS](https://raw.githubusercontent.com/gilberto-009199/gilberto-009199/refs/heads/main/Arch_Amazon-Simple-Queue-Service_16.svg) SQS </strong>
         <strong>![Terraform](./terraform16x16.svg) Terraform</strong>
       </small>
-- [**BackEnd UolHost**](https://github.com/gilberto-009199/desafio-uolhost-backend) -
+- [**BackEnd UolHost**](https://github.com/gilberto-009199/desafio-uolhost-backend) - Java application capable of retrieving information from an XML file and a JSON file;
 <br/><small>
         <strong>![Spring Boot](./spring16x16.svg) Spring Boot</strong>
         <strong>![Docker](./docker16x16.svg) Docker</strong>
         <strong>![Angular](./bootstrap.svg) Bootstrap</strong> 
       </small>
-- [**FullStack Jara**](https://github.com/gilberto-009199/avaliacao-full-stack) - 
+- [**FullStack Jara**](https://github.com/gilberto-009199/avaliacao-full-stack) - Angular Application with SpringBoot;
 <br/><small>
         <strong>![Spring Boot](./spring16x16.svg) Spring Boot</strong>
         <strong>![Docker](./docker16x16.svg) Docker</strong>
         <strong>![Angular](./angularjs.svg) Angular</strong> 
       </small>
-- [**BackEnd Itau**](https://github.com/gilberto-009199/desafio-itau-backend) -
+- [**BackEnd Itau**](https://github.com/gilberto-009199/desafio-itau-backend) - REST API that receives Transactions and returns Statistics on those transactions;
 <br/><small>
         <strong>![Spring Boot](./spring16x16.svg) Spring Boot</strong>
         <strong>![Docker](./docker16x16.svg) Docker</strong>
         <strong>![Docker](./swagger.svg) Swagger</strong>
       </small>
-- [**BackEnd Athornatus**](https://github.com/gilberto-009199/athornatus_vaga) - 
+- [**BackEnd Athornatus**](https://github.com/gilberto-009199/athornatus_vaga) - Using Spring boot, create a simple API to manage People;
 <br/><small>
         <strong>![Spring Boot](./spring16x16.svg) Spring Boot</strong>
         <strong>![Docker](./docker16x16.svg) Docker</strong>
         <strong>![Docker](./swagger.svg) Swagger</strong>
       </small>
-- [**BackEnd PicPay**](https://github.com/gilberto-009199/picpay-desafio-backend) - 
+- [**BackEnd PicPay**](https://github.com/gilberto-009199/picpay-desafio-backend) - Simplified payment platform. It allows you to deposit and transfer money between users..
 <br/><small>
         <strong>![Spring Boot](./spring16x16.svg) Spring Boot</strong>
         <strong>![Docker](./docker16x16.svg) Docker</strong>
