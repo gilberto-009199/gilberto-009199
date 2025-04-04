@@ -1,5 +1,4 @@
 [English](https://github.com/gilberto-009199/gilberto-009199/blob/main/README.md) | __Português__
-[Inglês](https://github.com/gilberto-009199/gilberto-009199/blob/main/README.md) | __Português__
 
 # 👋 Olá, eu sou o Gil.
 > Bacharelado em Ciência da Computação (IMPACTA) (2020-2024), Desenvolvedor (SENAI) (2016-2018), Redes de Computadores (ITB) (2015-2017).
