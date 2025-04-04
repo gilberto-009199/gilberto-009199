@@ -1,3 +1,5 @@
+__English__ | [Português]()
+
 # 👋 Hi, I’m Gil.
 > Computer Science (IMPACTA) Bachelor's degre (2020-2024), Developer(SENAI) (2016-2018), Computer Networks (ITB) (2015-2017). 
 
