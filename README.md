@@ -11,7 +11,7 @@
   - <strong>![Spring Boot](./spring16x16.svg) Spring Boot</strong>
   - <strong>![Spring Boot](./java16x16.svg) Java</strong>
   - <strong>![C#](./c-sharp16x16.svg) C#</strong>
-  - <strong>![Angular](./angularjs.svg) Angular</strong>
+  - <strong>![Angular](https://raw.githubusercontent.com/gilberto-009199/gilberto-009199/refs/heads/main/angularjs.svg) Angular</strong>
 
 - **Full Stack Java Systems Analyst in Bank, São Paulo, Brazil:** Working with java web and applications.
 <br>  `+ Spring Boot` `+ Java` `+ Servlet` `+ JSP/JSF` `+ TagLib` 
