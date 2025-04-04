@@ -34,7 +34,7 @@
 
 #### 🌱 Recent Activities:
 
-- [**Anotai BackEnd**](https://github.com/gilberto-009199/desafio-anotai-backend-aws) -
+- [**BackEnd Anotai**](https://github.com/gilberto-009199/desafio-anotai-backend-aws) -
 <br/><small>
         <strong>![Spring Boot](./spring16x16.svg) Spring Boot</strong>
         <strong>![AWS](./cloud16x16.svg) AWS</strong>
@@ -43,31 +43,31 @@
         <strong>![Docker](./docker16x16.svg) Docker</strong> 
         <strong>![C#](./terraform16x16.svg) Terraform</strong>
       </small>
-- [**UolHost BackEnd**](https://github.com/gilberto-009199/desafio-uolhost-backend) -
+- [**BackEnd UolHost**](https://github.com/gilberto-009199/desafio-uolhost-backend) -
 <br/><small>
         <strong>![Spring Boot](./spring16x16.svg) Spring Boot</strong>
         <strong>![Docker](./docker16x16.svg) Docker</strong>
         <strong>![Angular](./bootstrap.svg) Bootstrap</strong> 
       </small>
-- [**Jara FullStack**](https://github.com/gilberto-009199/avaliacao-full-stack) - 
+- [**FullStack Jara**](https://github.com/gilberto-009199/avaliacao-full-stack) - 
 <br/><small>
         <strong>![Spring Boot](./spring16x16.svg) Spring Boot</strong>
         <strong>![Docker](./docker16x16.svg) Docker</strong>
         <strong>![Angular](./angularjs.svg) Angular</strong> 
       </small>
-- [**Itau Backend**](https://github.com/gilberto-009199/desafio-itau-backend) -
+- [**BackEnd Itau**](https://github.com/gilberto-009199/desafio-itau-backend) -
 <br/><small>
         <strong>![Spring Boot](./spring16x16.svg) Spring Boot</strong>
         <strong>![Docker](./docker16x16.svg) Docker</strong>
         <strong>![Docker](./swagger.svg) Swagger</strong>
       </small>
-- [**Athornatus FullStack**](https://github.com/gilberto-009199/athornatus_vaga) - 
+- [**FullStack Athornatus**](https://github.com/gilberto-009199/athornatus_vaga) - 
 <br/><small>
         <strong>![Spring Boot](./spring16x16.svg) Spring Boot</strong>
         <strong>![Docker](./docker16x16.svg) Docker</strong>
         <strong>![Docker](./swagger.svg) Swagger</strong>
       </small>
-- [**PicPay Backend**](https://github.com/gilberto-009199/picpay-desafio-backend) - 
+- [**BackEnd PicPay**](https://github.com/gilberto-009199/picpay-desafio-backend) - 
 <br/><small>
         <strong>![Spring Boot](./spring16x16.svg) Spring Boot</strong>
         <strong>![Docker](./docker16x16.svg) Docker</strong>
