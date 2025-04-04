@@ -7,14 +7,21 @@
 
 ### 🌱 Professional Experience:
 
-- **Systems Analyst in Agropad,São Paulo, Brazil:** Front-end with Angular and Back-End with C#, from a marketplace and microservices with Spring Boot.
-  - <strong>![Spring Boot](./spring16x16.svg) Spring Boot</strong>
-  - <strong>![Spring Boot](./java16x16.svg) Java</strong>
-  - <strong>![C#](./c-sharp16x16.svg) C#</strong>
-  - <strong>![Angular](https://raw.githubusercontent.com/gilberto-009199/gilberto-009199/refs/heads/main/angularjs.svg) Angular</strong>
+- **Full Stack Analyst in Startup,São Paulo, Brazil:** Front-end with Angular and Back-End with C#, from a marketplace and microservices with Spring Boot.
+<br/><small style="flaot: right;">
+        <strong>![Spring Boot](./spring16x16.svg) Spring Boot</strong> 
+        <strong>![Spring Boot](./java16x16.svg) Java</strong> 
+        <strong>![C#](./c-sharp16x16.svg) C#</strong> 
+        <strong>![Angular](https://raw.githubusercontent.com/gilberto-009199/gilberto-009199/refs/heads/main/angularjs.svg) Angular</strong>
+      </small>
 
 - **Full Stack Java Systems Analyst in Bank, São Paulo, Brazil:** Working with java web and applications.
-<br>  `+ Spring Boot` `+ Java` `+ Servlet` `+ JSP/JSF` `+ TagLib` 
+<br/><small style="flaot: right;">
+        <strong>![Spring Boot](./spring16x16.svg) Spring Boot</strong>
+        <strong>![Spring Boot](./java16x16.svg) Java</strong> 
+        <strong>![C#](./servelt16x16.svg) Servlet</strong>
+        <strong><img src="./jsf.png" width="16" height="16"/> JSP/JSF</strong>
+  </small>
 
 #### 💞️ My Contributions:
 
