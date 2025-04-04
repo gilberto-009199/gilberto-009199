@@ -38,8 +38,6 @@
         <strong>![AWS](./cloud16x16.svg) AWS</strong>
         <strong>![S3](./Arch_Amazon-Simple-Storage-Service_16.svg) AWS S3 Bucket</strong>
         <strong>![SQS](./Arch_Amazon-Simple-Queue-Service_16.svg) AWS SQS </strong>
-        
-
         <strong>![Docker](./docker16x16.svg) Docker</strong> 
         <strong>![C#](./terraform16x16.svg) Terraform</strong>
       </small>
