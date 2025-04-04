@@ -8,7 +8,7 @@
 ### 🌱 Professional Experience:
 
 - **Full Stack Analyst in Startup,São Paulo, Brazil:** Front-end with Angular and Back-End with C#, from a marketplace and microservices with Spring Boot.
-<br/><small style="flaot: right;">
+<br/><small>
         <strong>![Spring Boot](./spring16x16.svg) Spring Boot</strong> 
         <strong>![Spring Boot](./java16x16.svg) Java</strong> 
         <strong>![C#](./c-sharp16x16.svg) C#</strong> 
@@ -16,7 +16,7 @@
       </small>
 
 - **Full Stack Java Systems Analyst in Bank, São Paulo, Brazil:** Working with java web and applications.
-<br/><small style="flaot: right;">
+<br/><small>
         <strong>![Spring Boot](./spring16x16.svg) Spring Boot</strong>
         <strong>![Spring Boot](./java16x16.svg) Java</strong> 
         <strong>![C#](./servelt16x16.svg) Servlet</strong>
@@ -33,7 +33,12 @@
 #### 🌱 Recent Activities:
 
 - [**Anotai BackEnd**](https://github.com/gilberto-009199/desafio-anotai-backend-aws) -
-<br>  `+ Spring Boot` `+ Docker` `+ Terraform`
+<br/><small>
+        <strong>![Spring Boot](./spring16x16.svg) Spring Boot</strong>
+        <strong>![AWS](./cloud16x16.svg) AWS</strong> 
+        <strong>![Docker](./docker16x16.svg) Docker</strong> 
+        <strong>![C#](./terraform16x16.svg) Terraform</strong>
+      </small>
 - [**UolHost BackEnd**](https://github.com/gilberto-009199/desafio-uolhost-backend) -
 <br>  `+ Spring Boot`
 - [**Jara FullStack**](https://github.com/gilberto-009199/avaliacao-full-stack) - 
