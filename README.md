@@ -5,6 +5,7 @@
 
 <!--- [![GitHub Game of Life](https://github4life.herokuapp.com/gilberto-009199.gif?z=6)](https://github4life.herokuapp.com/gilberto-009199) -->
 
+<!---
 ### 🌱 Professional Experience:
 
 - **Full Stack Analyst in Startup,São Paulo, Brazil:** Front-end with Angular and Back-End with C#, from a marketplace and microservices with Spring Boot.
@@ -22,6 +23,7 @@
         <strong>![C#](./servelt16x16.svg) Servlet</strong>
         <strong><img src="./jsf.png" width="16" height="16"/> JSP/JSF</strong>
   </small>
+-->
 
 #### 💞️ My Contributions:
 
@@ -60,9 +62,18 @@
         <strong>![Docker](./swagger.svg) Swagger</strong>
       </small>
 - [**Athornatus FullStack**](https://github.com/gilberto-009199/athornatus_vaga) - 
-<br>  `+ Spring Boot`
+<br/><small>
+        <strong>![Spring Boot](./spring16x16.svg) Spring Boot</strong>
+        <strong>![Docker](./docker16x16.svg) Docker</strong>
+        <strong>![Docker](./swagger.svg) Swagger</strong>
+      </small>
 - [**PicPay Backend**](https://github.com/gilberto-009199/picpay-desafio-backend) - 
-<br>  `+ Spring Boot`
+<br/><small>
+        <strong>![Spring Boot](./spring16x16.svg) Spring Boot</strong>
+        <strong>![Docker](./docker16x16.svg) Docker</strong>
+        <strong>![Docker](./swagger.svg) Swagger</strong>
+        <strong>![Docker](./swagger.svg) Kafka</strong>
+      </small>
 
 #### 📫 How to Reach me:
 
@@ -71,7 +82,7 @@
 - [Stackoverflow](https://stackoverflow.com/users/12253435/gil)
 - [GUJ](https://www.guj.com.br/u/gil090199/activity)
 
-[Read More]()
+<!-- [Read More]() -->
 
 [<img alt="badge of Dapr Community Supporter" align="right" width="100" height="100" src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG80MmhnanIxOTg2ODBmbWs1ZGd6Y3dyOSIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19">](
 https://www.holopin.io/@gilberto009199
@@ -87,4 +98,4 @@ https://www.hackerrank.com/profile/gilberto_tec
 gilberto-009199/gilberto-009199 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<small style="float: leaft;">" Programs about Programs, Systems about Systems"</small>
+<small style="float: leaft;">"Programs about Programs, Systems about Systems"</small>
