@@ -72,7 +72,7 @@
         <strong>![Spring Boot](./spring16x16.svg) Spring Boot</strong>
         <strong>![Docker](./docker16x16.svg) Docker</strong>
         <strong>![Docker](./swagger.svg) Swagger</strong>
-        <strong>![Docker](./swagger.svg) Kafka</strong>
+        <strong>![Docker](./kafka16x16.svg) Kafka</strong>
       </small>
 
 #### 📫 How to Reach me:
