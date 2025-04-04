@@ -61,7 +61,7 @@
         <strong>![Docker](./docker16x16.svg) Docker</strong>
         <strong>![Docker](./swagger.svg) Swagger</strong>
       </small>
-- [**FullStack Athornatus**](https://github.com/gilberto-009199/athornatus_vaga) - 
+- [**BackEnd Athornatus**](https://github.com/gilberto-009199/athornatus_vaga) - 
 <br/><small>
         <strong>![Spring Boot](./spring16x16.svg) Spring Boot</strong>
         <strong>![Docker](./docker16x16.svg) Docker</strong>
