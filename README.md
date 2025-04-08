@@ -83,7 +83,7 @@ __English__ | [Português](https://github.com/gilberto-009199/gilberto-009199/bl
 - [gilberto.tec@vivaldi.net](mailto:gilberto.tec@vivaldi.net)
 - [Wikipedia](https://pt.wikipedia.org/wiki/Especial:Contribui%C3%A7%C3%B5es/Tel_front)
 - [Stackoverflow](https://stackoverflow.com/users/12253435/gil)
-- [GUJ](https://www.guj.com.br/u/gil090199/activity)
+- [GUJ](https://www.guj.com.br/u/gil090199)
 
 <!-- [Read More]() -->
 
