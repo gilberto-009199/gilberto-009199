@@ -44,7 +44,7 @@
         <strong>![MongoDB](./assets/mongodb.svg) MongoDB</strong>
         <strong>![AWS](./assets/cloud16x16.svg) AWS</strong>
         <strong>![S3](./assets/Arch_Amazon-Simple-Storage-Service_16.svg) S3 Bucket</strong>
-        <strong>![SQS](https://raw.githubusercontent.com/gilberto-009199/gilberto-009199/refs/heads/main/Arch_Amazon-Simple-Queue-Service_16.svg) SQS</strong>
+        <strong>![SQS](./assets/Arch_Amazon-Simple-Queue-Service_16.svg) SQS</strong>
         <strong>![Terraform](./assets/terraform16x16.svg) Terraform</strong>
       </small>
 - [**BackEnd UolHost**](https://github.com/gilberto-009199/desafio-uolhost-backend) - Aplicação Java capaz de recuperar informações de arquivos XML e JSON;
