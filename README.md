@@ -57,7 +57,8 @@ __English__ | [Português](https://github.com/gilberto-009199/gilberto-009199/bl
 <br/><small>
         <strong>![Spring Boot](./assets/spring16x16.svg) Spring Boot</strong>
         <strong>![Docker](./assets/docker16x16.svg) Docker</strong>
-        <strong>![Angular](./assets/angularjs.svg) Angular</strong> 
+        <strong>![Angular](./assets/angularjs.svg) Angular</strong>
+        <strong>![PrimeNG](./assets/primeng.svg) PrimeNG</strong>
       </small>
 - [**Challenge BackEnd Itau**](https://github.com/gilberto-009199/desafio-itau-backend) - REST API that receives Transactions and returns Statistics on those transactions;
 <br/><small>
