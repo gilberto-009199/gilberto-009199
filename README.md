@@ -40,6 +40,7 @@ __English__ | [Português](https://github.com/gilberto-009199/gilberto-009199/bl
 <br/><small>
         <strong>![Spring Boot](./spring16x16.svg) Spring Boot</strong>
         <strong>![Docker](./docker16x16.svg) Docker</strong>
+        <strong>![Docker](./swagger.svg) Swagger</strong>
         <strong>![Docker](./mongodb.svg) MongoDB</strong>
         <strong>![AWS](./cloud16x16.svg) AWS</strong>
         <strong>![S3](./Arch_Amazon-Simple-Storage-Service_16.svg) S3 Bucket</strong>
