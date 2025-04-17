@@ -57,7 +57,8 @@
 <br/><small>
         <strong>![Spring Boot](./assets/spring16x16.svg) Spring Boot</strong>
         <strong>![Docker](./assets/docker16x16.svg) Docker</strong>
-        <strong>![Angular](./assets/angularjs.svg) Angular</strong> 
+        <strong>![Angular](./assets/angularjs.svg) Angular</strong>
+        <strong>![PrimeNG](https://raw.githubusercontent.com/gilberto-009199/gilberto-009199/2888ebbf436a85de7aee2576a161cafd88080aef/assets/primeng.svg) PrimeNG</strong>
       </small>
 - [**Desafio BackEnd Itaú**](https://github.com/gilberto-009199/desafio-itau-backend) - API REST que recebe transações e retorna estatísticas sobre essas transações;
 <br/><small>
