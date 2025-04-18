@@ -41,17 +41,18 @@
 <br/><small>
         <strong>![Spring Boot](./assets/spring16x16.svg) Spring Boot</strong>
         <strong>![Docker](./assets/docker16x16.svg) Docker</strong>
+        <strong>![Swagger](./assets/swagger.svg) Swagger</strong>
         <strong>![MongoDB](./assets/mongodb.svg) MongoDB</strong>
         <strong>![AWS](./assets/cloud16x16.svg) AWS</strong>
         <strong>![S3](./assets/Arch_Amazon-Simple-Storage-Service_16.svg) S3 Bucket</strong>
-        <strong>![SQS](./assets/Arch_Amazon-Simple-Queue-Service_16.svg) SQS</strong>
+        <strong>![SQS](./assets/Arch_Amazon-Simple-Queue-Service_16.svg) SQS </strong>
         <strong>![Terraform](./assets/terraform16x16.svg) Terraform</strong>
       </small>
 - [**Desafio BackEnd UolHost**](https://github.com/gilberto-009199/desafio-uolhost-backend) - Aplicação Java capaz de recuperar informações de arquivos XML e JSON;
 <br/><small>
-        <strong>![Spring Boot](./assets/spring16x16.svg) Spring Boot</strong>
+        <strong>![SpringBoot](./assets/spring16x16.svg) Spring Boot</strong>
         <strong>![Docker](./assets/docker16x16.svg) Docker</strong>
-        <strong>![Bootstrap](./assets/bootstrap.svg) Bootstrap</strong> 
+        <strong>![Bootstrap](./assets/bootstrap.svg) Bootstrap</strong>
       </small>
 - [**Desafio FullStack Jara**](https://github.com/gilberto-009199/avaliacao-full-stack) - Aplicação Angular com SpringBoot;
 <br/><small>
@@ -67,11 +68,12 @@
         <strong>![Docker](./assets/docker16x16.svg) Docker</strong>
         <strong>![Swagger](./assets/swagger.svg) Swagger</strong>
       </small>
-- [**Desafio BackEnd Athornatus**](https://github.com/gilberto-009199/athornatus_vaga) - API simples para gerenciar pessoas, utilizando Spring Boot;
+- [**Desafio BackEnd Athornatus**](https://github.com/gilberto-009199/desafio-athornatus-backend) - API simples para gerenciar pessoas, utilizando Spring Boot;
 <br/><small>
         <strong>![Spring Boot](./assets/spring16x16.svg) Spring Boot</strong>
         <strong>![Docker](./assets/docker16x16.svg) Docker</strong>
         <strong>![Swagger](./assets/swagger.svg) Swagger</strong>
+        <strong>![Lombok](./assets/lombok.svg) Lombok</strong>
       </small>
 - [**Desafio BackEnd PicPay**](https://github.com/gilberto-009199/picpay-desafio-backend) - Plataforma simplificada de pagamentos. Permite depósitos e transferências de dinheiro entre usuários.
 <br/><small>
