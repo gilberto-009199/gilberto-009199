@@ -40,8 +40,8 @@ __English__ | [Português](https://github.com/gilberto-009199/gilberto-009199/bl
 <br/><small>
         <strong>![Spring Boot](./assets/spring16x16.svg) Spring Boot</strong>
         <strong>![Docker](./assets/docker16x16.svg) Docker</strong>
-        <strong>![Docker](./assets/swagger.svg) Swagger</strong>
-        <strong>![Docker](./assets/mongodb.svg) MongoDB</strong>
+        <strong>![Swagger](./assets/swagger.svg) Swagger</strong>
+        <strong>![MongoDB](./assets/mongodb.svg) MongoDB</strong>
         <strong>![AWS](./assets/cloud16x16.svg) AWS</strong>
         <strong>![S3](./assets/Arch_Amazon-Simple-Storage-Service_16.svg) S3 Bucket</strong>
         <strong>![SQS](./assets/Arch_Amazon-Simple-Queue-Service_16.svg) SQS </strong>
@@ -49,9 +49,9 @@ __English__ | [Português](https://github.com/gilberto-009199/gilberto-009199/bl
       </small>
 - [**Challenge BackEnd UolHost**](https://github.com/gilberto-009199/desafio-uolhost-backend) - Java application capable of retrieving information from an XML file and a JSON file;
 <br/><small>
-        <strong>![Spring Boot](./assets/spring16x16.svg) Spring Boot</strong>
+        <strong>![SpringBoot](./assets/spring16x16.svg) Spring Boot</strong>
         <strong>![Docker](./assets/docker16x16.svg) Docker</strong>
-        <strong>![Angular](./assets/bootstrap.svg) Bootstrap</strong> 
+        <strong>![Bootstrap](./assets/bootstrap.svg) Bootstrap</strong> 
       </small>
 - [**Challenge FullStack Jara**](https://github.com/gilberto-009199/avaliacao-full-stack) - Angular Application with SpringBoot;
 <br/><small>
@@ -59,26 +59,27 @@ __English__ | [Português](https://github.com/gilberto-009199/gilberto-009199/bl
         <strong>![Docker](./assets/docker16x16.svg) Docker</strong>
         <strong>![Angular](./assets/angularjs.svg) Angular</strong>
         <strong>![PrimeNG](./assets/primeng.svg) PrimeNG</strong>
-        <strong>![PrimeNG](./assets/lombok.svg) Lombok</strong>
+        <strong>![Lombok](./assets/lombok.svg) Lombok</strong>
       </small>
 - [**Challenge BackEnd Itau**](https://github.com/gilberto-009199/desafio-itau-backend) - REST API that receives Transactions and returns Statistics on those transactions;
 <br/><small>
         <strong>![Spring Boot](./assets/spring16x16.svg) Spring Boot</strong>
         <strong>![Docker](./assets/docker16x16.svg) Docker</strong>
-        <strong>![Docker](./assets/swagger.svg) Swagger</strong>
+        <strong>![Swagger](./assets/swagger.svg) Swagger</strong>
       </small>
-- [**Challenge BackEnd Athornatus**](https://github.com/gilberto-009199/athornatus_vaga) - Using Spring boot, create a simple API to manage People;
+- [**Challenge BackEnd Athornatus**](https://github.com/gilberto-009199/desafio-athornatus-backend) - Using Spring boot, create a simple API to manage People;
 <br/><small>
         <strong>![Spring Boot](./assets/spring16x16.svg) Spring Boot</strong>
         <strong>![Docker](./assets/docker16x16.svg) Docker</strong>
-        <strong>![Docker](./assets/swagger.svg) Swagger</strong>
+        <strong>![Swagger](./assets/swagger.svg) Swagger</strong>
+        <strong>![Lombok](./assets/lombok.svg) Lombok</strong>
       </small>
 - [**Challenge BackEnd PicPay**](https://github.com/gilberto-009199/picpay-desafio-backend) - Simplified payment platform. It allows you to deposit and transfer money between users..
 <br/><small>
         <strong>![Spring Boot](./assets/spring16x16.svg) Spring Boot</strong>
         <strong>![Docker](./assets/docker16x16.svg) Docker</strong>
-        <strong>![Docker](./assets/swagger.svg) Swagger</strong>
-        <strong>![Docker](./assets/kafka16x16.svg) Kafka</strong>
+        <strong>![Swagger](./assets/swagger.svg) Swagger</strong>
+        <strong>![Kafka](./assets/kafka16x16.svg) Kafka</strong>
       </small>
 
 #### 📫 How to Reach me:
