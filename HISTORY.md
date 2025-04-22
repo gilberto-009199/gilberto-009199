@@ -1,4 +1,4 @@
-# Journey
+# Journey [under construction]
 
 .........
 
@@ -26,7 +26,7 @@ mindmap
         British popular psychology author Tony Buzan
     Research
       On effectiveness<br/>and features
-      B[an <b>important</b> <a href='http://google.com'>link</a>]
+      important
         Uses
             Creative techniques
             Strategic planning
