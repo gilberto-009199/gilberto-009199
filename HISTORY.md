@@ -6,17 +6,44 @@
 
 + ## 2025
 
-```mermaid
+<!--```mermaid
 graph TD
     A[This is an <b>important</b> <a href='https://google.com'>link</a>]
-```
- + Name - Description
- + Name - Description
- + Name - Description
+```-->
+
+<!--  + Professional Experience:-->
+<!--  + My Contributions:-->
+
++ Activities:
+    
+    - [**Challenge BackEnd Anotai**](https://github.com/gilberto-009199/desafio-anotai-backend-aws) - API for a product catalog management system in a marketplace application with S3 and SQS for catalog;
+    <br/><small>
+            <strong>![Spring Boot](./assets/spring16x16.svg) Spring Boot</strong>
+            <strong>![Docker](./assets/docker16x16.svg) Docker</strong>
+            <strong>![Swagger](./assets/swagger.svg) Swagger</strong>
+            <strong>![MongoDB](./assets/mongodb.svg) MongoDB</strong>
+            <strong>![AWS](./assets/cloud16x16.svg) AWS</strong>
+            <strong>![S3](./assets/Arch_Amazon-Simple-Storage-Service_16.svg) S3 Bucket</strong>
+            <strong>![SQS](./assets/Arch_Amazon-Simple-Queue-Service_16.svg) SQS </strong>
+            <strong>![Terraform](./assets/terraform16x16.svg) Terraform</strong>
+          </small>
+    - [**Challenge BackEnd UolHost**](https://github.com/gilberto-009199/desafio-uolhost-backend) - Java application capable of retrieving information from an XML file and a JSON file;
+    <br/><small>
+            <strong>![SpringBoot](./assets/spring16x16.svg) Spring Boot</strong>
+            <strong>![Docker](./assets/docker16x16.svg) Docker</strong>
+            <strong>![Bootstrap](./assets/bootstrap.svg) Bootstrap</strong> 
+          </small>
+    - [**Challenge BackEnd Itau**](https://github.com/gilberto-009199/desafio-itau-backend) - REST API that receives Transactions and returns Statistics on those transactions;
+    <br/><small>
+            <strong>![Spring Boot](./assets/spring16x16.svg) Spring Boot</strong>
+            <strong>![Docker](./assets/docker16x16.svg) Docker</strong>
+            <strong>![Swagger](./assets/swagger.svg) Swagger</strong>
+          </small>
+
 
 + ## 2024
 
-```mermaid
+<!--```mermaid
 mindmap
   root((mindmap))
     Origins
@@ -34,58 +61,74 @@ mindmap
     Tools
       Pen and paper
       Mermaid
-```
- + Name - Description
- + Name - Description
- + Name - Description
+```-->
+<!---+ Professional Experience:-->
+<!---+ My Contributions:-->
 
+  + Activities:
+    - [**Challenge BackEnd PicPay**](https://github.com/gilberto-009199/picpay-desafio-backend) - Simplified payment platform. It allows you to deposit and transfer money between users..
+    <br/><small>
+            <strong>![Spring Boot](./assets/spring16x16.svg) Spring Boot</strong>
+            <strong>![Docker](./assets/docker16x16.svg) Docker</strong>
+            <strong>![Swagger](./assets/swagger.svg) Swagger</strong>
+            <strong>![Kafka](./assets/kafka16x16.svg) Kafka</strong>
+          </small>
 + ## 2023
 
- + Name - Description
- + Name - Description
- + Name - Description
+<!--  + Professional Experience:-->
+<!--  + My Contributions: -->
+  + Activities:
+      - [**Challenge BackEnd Athornatus**](https://github.com/gilberto-009199/desafio-athornatus-backend) - Using Spring boot, create a simple API to manage People;
+    <br/><small>
+            <strong>![Spring Boot](./assets/spring16x16.svg) Spring Boot</strong>
+            <strong>![Docker](./assets/docker16x16.svg) Docker</strong>
+            <strong>![Swagger](./assets/swagger.svg) Swagger</strong>
+            <strong>![Lombok](./assets/lombok.svg) Lombok</strong>
+          </small>
 
 + ## 2022
 
-
- + Name - Description
- + Name - Description
- + Name - Description
+<!--  + Professional Experience:-->
+<!--  + My Contributions: -->
+  + Activities:
+    - [**Challenge FullStack Jara**](https://github.com/gilberto-009199/avaliacao-full-stack) - Angular Application with SpringBoot;
+    <br/><small>
+            <strong>![Spring Boot](./assets/spring16x16.svg) Spring Boot</strong>
+            <strong>![Docker](./assets/docker16x16.svg) Docker</strong>
+            <strong>![Angular](./assets/angularjs.svg) Angular</strong>
+            <strong>![PrimeNG](./assets/primeng.svg) PrimeNG</strong>
+            <strong>![Lombok](./assets/lombok.svg) Lombok</strong>
+          </small>
 
 + ## 2021
 
-
- + Name - Description
- + Name - Description
- + Name - Description
+<!--  + Professional Experience:-->
+<!--  + My Contributions: -->
+<!--  + Activities: -->
 
 + ## 2020
 
-
- + Name - Description
- + Name - Description
- + Name - Description
+<!--  + Professional Experience:-->
+<!--  + My Contributions: -->
+<!--  + Activities: -->
 
 + ## 2019
 
-
- + Name - Description
- + Name - Description
- + Name - Description
+<!--  + Professional Experience:-->
+<!--  + My Contributions: -->
+<!--  + Activities: -->
 
 + ## 2018
 
-
- + Name - Description
- + Name - Description
- + Name - Description
+<!--  + Professional Experience:-->
+<!--  + My Contributions: -->
+<!--  + Activities: -->
 
 + ## 2017
 
-
- + Name - Description
- + Name - Description
- + Name - Description
+<!--  + Professional Experience:-->
+<!--  + My Contributions: -->
+<!--  + Activities: -->
 
 ## initial 
 
