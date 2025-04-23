@@ -99,6 +99,10 @@ mindmap
             <strong>![Swagger](./assets/swagger.svg) Swagger</strong>
             <strong>![Lombok](./assets/lombok.svg) Lombok</strong>
           </small>
+<!-- add https://github.com/gilberto-009199/myauth -->
+<!-- add https://github.com/gilberto-009199/bibliotecaJSF -->
+<!-- add https://github.com/Javeiros-brasil/helpmatch-backend -->
+<!-- add https://github.com/gilberto-009199/terra-invicta-traducao -->
 
 ## 2022
 
