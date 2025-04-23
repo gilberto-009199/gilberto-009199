@@ -129,11 +129,20 @@ mindmap
 <!--  + My Contributions: -->
 <!--  + Activities: -->
 
+https://github.com/gilberto-009199/Login-Cripto-Wallet-Vue
+https://github.com/gilberto-009199/AspenX
+
 ## 2020
 
 <!--  + Professional Experience:-->
 <!--  + My Contributions: -->
 <!--  + Activities: -->
+
+https://github.com/gilberto-009199/MyScreeps
+https://github.com/gilberto-009199/http-server-cpp
+https://github.com/gilberto-009199/JAgendaWeb
+https://github.com/gilberto-009199/mondoj
+https://github.com/gilberto-009199/MyDocker
 
 ## 2019
 
