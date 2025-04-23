@@ -66,14 +66,23 @@ mindmap
 
 
  + Activities:
-    - [**Challenge BackEnd PicPay**](https://github.com/gilberto-009199/picpay-desafio-backend) - Simplified payment platform. It allows you to deposit and transfer money between users..
+    - [**Challenge BackEnd PicPay**](https://github.com/gilberto-009199/picpay-desafio-backend) - Simplified payment platform. It allows you to deposit and transfer money between users
     <br/><small>
             <strong>![Spring Boot](./assets/spring16x16.svg) Spring Boot</strong>
             <strong>![Docker](./assets/docker16x16.svg) Docker</strong>
             <strong>![Swagger](./assets/swagger.svg) Swagger</strong>
             <strong>![Kafka](./assets/kafka16x16.svg) Kafka</strong>
           </small>
-
+          
+    - [**BigData**](https://github.com/gilberto-009199/bigdata) - BigData and MapReduce
+      <br/><small>
+            <strong>![Swagger](./assets/scala.svg) Scala</strong>
+            <strong>![Swagger](./assets/java16x16.svg) Java</strong>
+            <strong>![Docker](./assets/docker16x16.svg) Docker</strong>
+            <strong>![Swagger](./assets/hadoop.svg) Hadoop</strong>
+            <strong>![Swagger](./assets/mongodb.svg) MongoDB</strong>
+            <strong>![Swagger](./assets/postgresql.svg) PostgreSQL</strong>
+          </small>
 ## 2023
 
 <!--  + Professional Experience:-->
