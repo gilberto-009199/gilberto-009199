@@ -73,15 +73,15 @@ mindmap
             <strong>![Swagger](./assets/swagger.svg) Swagger</strong>
             <strong>![Kafka](./assets/kafka16x16.svg) Kafka</strong>
           </small>
-          
+
     - [**BigData**](https://github.com/gilberto-009199/bigdata) - BigData and MapReduce
       <br/><small>
-            <strong>![Swagger](./assets/scala.svg) Scala</strong>
-            <strong>![Swagger](./assets/java16x16.svg) Java</strong>
+            <strong>![Scala](./assets/scala.svg) Scala</strong>
+            <strong>![Java](./assets/java16x16.svg) Java</strong>
             <strong>![Docker](./assets/docker16x16.svg) Docker</strong>
-            <strong>![Swagger](./assets/hadoop.svg) Hadoop</strong>
-            <strong>![Swagger](./assets/mongodb.svg) MongoDB</strong>
-            <strong>![Swagger](./assets/postgresql.svg) PostgreSQL</strong>
+            <strong>![Hadoop](./assets/hadoop.svg) Hadoop</strong>
+            <strong>![MongoDB](./assets/mongodb.svg) MongoDB</strong>
+            <strong>![PostgreSQL](./assets/postgresql.svg) PostgreSQL</strong>
           </small>
 
 <!-- add https://github.com/gilberto-009199/processamento_imagem -->
@@ -99,7 +99,21 @@ mindmap
             <strong>![Swagger](./assets/swagger.svg) Swagger</strong>
             <strong>![Lombok](./assets/lombok.svg) Lombok</strong>
           </small>
-<!-- add https://github.com/gilberto-009199/myauth -->
+   - [**Library in JSF**](https://github.com/gilberto-009199/bibliotecaJSF) - ;
+    <br/><small>
+            <strong>![Docker](./assets/docker16x16.svg) Docker</strong>
+            <strong>![Docker](./assets/java16x16.svg) Java</strong>
+            <strong>![Lombok](./assets/lombok.svg) Lombok</strong>
+            <strong>![Lombok](./assets/tomcat.svg) Tomcat</strong>
+            <strong><img src="./assets/jsf.png" height="16px" width="16px"> JSF</strong>
+            <strong>![Lombok](./assets/postgresql.svg) PostgreSQL</strong>
+          </small>
+   - [**Manager OTP**](https://github.com/gilberto-009199/myauth) - ;
+    <br/><small>
+            
+          </small>
+
+<!-- add https://github.com/gilberto-009199/myauth -->.
 <!-- add https://github.com/gilberto-009199/bibliotecaJSF -->
 <!-- add https://github.com/Javeiros-brasil/helpmatch-backend -->
 <!-- add https://github.com/gilberto-009199/terra-invicta-traducao -->
@@ -127,10 +141,22 @@ mindmap
 
 <!--  + Professional Experience:-->
 <!--  + My Contributions: -->
-<!--  + Activities: -->
 
-https://github.com/gilberto-009199/Login-Cripto-Wallet-Vue
-https://github.com/gilberto-009199/AspenX
+ + Activities:
+   - [**Login Cryto Wallet Vue**](https://github.com/gilberto-009199/Login-Cripto-Wallet-Vue) - Login Cryto Wallet Vue;
+    <br/><small>
+            <strong>![Docker](./assets/docker16x16.svg) Docker</strong>
+            <strong>![MetaMask](./assets/metamask.svg) MetaMask</strong>
+            <strong>![Vue](./assets/vuejs.svg) VUE</strong>
+          </small>
+   - [**Site da AspenFlorest**](https://github.com/gilberto-009199/AspenX) - AspenX site cryptography
+    <br/><small>
+            <strong>![Docker](./assets/docker16x16.svg) Docker</strong>
+            <strong>![Bootstrap](./assets/bootstrap.svg) Bootstrap</strong>
+            <strong>![JQuery](./assets/jquery.svg) JQuery</strong>
+          </small>
+
+
 
 ## 2020
 
@@ -139,9 +165,13 @@ https://github.com/gilberto-009199/AspenX
 <!--  + Activities: -->
 
 https://github.com/gilberto-009199/MyScreeps
+
 https://github.com/gilberto-009199/http-server-cpp
+
 https://github.com/gilberto-009199/JAgendaWeb
+
 https://github.com/gilberto-009199/mondoj
+
 https://github.com/gilberto-009199/MyDocker
 
 ## 2019
