@@ -195,13 +195,25 @@ mindmap
 
 <!--  + Professional Experience:-->
 <!--  + My Contributions: -->
-<!--  + Activities: -->
+ + Activities:
+
+https://github.com/gilberto-009199/mobshare
+
+https://github.com/gilberto-009199/MobShareDesktop
+
 
 ## 2018
 
 <!--  + Professional Experience:-->
 <!--  + My Contributions: -->
 <!--  + Activities: -->
+
+
+https://github.com/gilberto-009199/BugsBonny
+
+https://github.com/gilberto-009199/jogo-forca-mobile
+
+https://github.com/gilberto-009199/MyBooks
 
 ## 2017
 
