@@ -39,7 +39,6 @@ graph TD
                 <strong>![Swagger](./assets/swagger.svg) Swagger</strong>
               </small>
 
-
 ## 2024
 
 <!--```mermaid
@@ -156,7 +155,7 @@ mindmap
             <strong>![MetaMask](./assets/metamask.svg) MetaMask</strong>
             <strong>![Vue](./assets/vuejs.svg) VUE</strong>
           </small>
-   - [**Site da AspenFlorest**](https://github.com/gilberto-009199/AspenX) - AspenX site cryptocurrency.
+   - [**Site of AspenFlorest**](https://github.com/gilberto-009199/AspenX) - AspenX site cryptocurrency.
     <br/><small>
             <strong>![Docker](./assets/docker16x16.svg) Docker</strong>
             <strong>![Bootstrap](./assets/bootstrap.svg) Bootstrap</strong>
@@ -167,13 +166,21 @@ mindmap
 
 <!--  + Professional Experience:-->
 <!--  + My Contributions: -->
-<!--  + Activities: -->
+ + Activities:
+   - [**Contact Book in JSP**](https://github.com/gilberto-009199/JAgendaWeb) - Web contact book made with JSP, Bootstrap and Jquery;
+    <br/><small>
+            <strong>![Docker](./assets/docker16x16.svg) Docker</strong>
+            <strong>![Servlets](./assets/servelt16x16.svg) Servlets</strong>
+            <strong>![Tomcat apache](./assets/tomcat.svg) Tomcat</strong>
+            <strong>![Bootstrap](./assets/bootstrap.svg) Bootstrap</strong>
+            <strong>![JQuery](./assets/jquery.svg) JQuery</strong>
+          </small>
+          
+    
 
 https://github.com/gilberto-009199/MyScreeps
 
 https://github.com/gilberto-009199/http-server-cpp
-
-https://github.com/gilberto-009199/JAgendaWeb
 
 https://github.com/gilberto-009199/mondoj
 
