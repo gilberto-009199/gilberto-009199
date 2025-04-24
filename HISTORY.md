@@ -198,15 +198,15 @@ mindmap
  + Activities:
    - [**Mobshare TCC PHP**](https://github.com/gilberto-009199/mobshare) - Mobshare tcc Site for developer SENAI.
     <br/><small>
-            <strong>![JQuery](./assets/php.svg) PHP</strong>
+            <strong>![PHP](./assets/php.svg) PHP</strong>
             <strong>![Docker](./assets/docker16x16.svg) Docker</strong>
-            <strong>![Docker](./assets/mariadb.svg) MariaDB</strong>
+            <strong>![MariaDB](./assets/mariadb.svg) MariaDB</strong>
             <strong>![JQuery](./assets/jquery.svg) JQuery</strong>
           </small>
    - [**Mobshare TCC Desktop**](https://github.com/gilberto-009199/MobShareDesktop) - Mobshare tcc Desktop for developer SENAI.
     <br/><small>
-            <strong>![JQuery](./assets/jquery.svg) Electron</strong>
-            <strong>![JQuery](./assets/jquery.svg) JQuery UI</strong>
+            <strong>![Electron](./assets/electronjs-icon.svg) Electron</strong>
+            <strong>![JQuery UI](./assets/jquery-ui.svg) JQuery UI</strong>
             <strong>![JQuery](./assets/jquery.svg) JQuery</strong>
           </small>
           
