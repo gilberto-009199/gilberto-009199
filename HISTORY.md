@@ -185,10 +185,11 @@ mindmap
             <strong>![C++](./assets/cpp.svg) C++</strong>
           </small>
           
-    
-https://github.com/gilberto-009199/mondoj
-
-https://github.com/gilberto-009199/MyDocker
+   - [**Game in java**](https://github.com/gilberto-009199/mondoj) - Game 3d basic in LibGDX
+    <br/><small>
+            <strong>![Java](./assets/java16x16.svg) Java</strong>
+            <strong><img src="./assets/gdx.svg" height="12px" alt="libGDX"></strong>
+          </small>
 
 ## 2019
 
