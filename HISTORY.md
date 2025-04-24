@@ -239,7 +239,11 @@ mindmap
 
 <!--  + Professional Experience:-->
 <!--  + My Contributions: -->
-<!--  + Activities: -->
+ + Activities:
+   - [**Ping Broadcast**](https://github.com/gilberto-009199/ping) -  Ping Broadcast in visual basic.
+    <br/><small>
+            <strong>![PHP](./assets/visualbasic.svg) Visual Basic</strong>
+          </small>
 
 ## initial 
 
