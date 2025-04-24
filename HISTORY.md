@@ -196,17 +196,31 @@ mindmap
 <!--  + Professional Experience:-->
 <!--  + My Contributions: -->
  + Activities:
+   - [**Mobshare TCC PHP**](https://github.com/gilberto-009199/mobshare) - Mobshare tcc Site for developer SENAI.
+    <br/><small>
+            <strong>![JQuery](./assets/php.svg) PHP</strong>
+            <strong>![Docker](./assets/docker16x16.svg) Docker</strong>
+            <strong>![Docker](./assets/mariadb.svg) MariaDB</strong>
+            <strong>![JQuery](./assets/jquery.svg) JQuery</strong>
+          </small>
+   - [**Mobshare TCC Desktop**](https://github.com/gilberto-009199/MobShareDesktop) - Mobshare tcc Desktop for developer SENAI.
+    <br/><small>
+            <strong>![JQuery](./assets/jquery.svg) Electron</strong>
+            <strong>![JQuery](./assets/jquery.svg) JQuery UI</strong>
+            <strong>![JQuery](./assets/jquery.svg) JQuery</strong>
+          </small>
+          
 
-https://github.com/gilberto-009199/mobshare
 
-https://github.com/gilberto-009199/MobShareDesktop
+
 
 
 ## 2018
 
 <!--  + Professional Experience:-->
 <!--  + My Contributions: -->
-<!--  + Activities: -->
+ + Activities:
+
 
 
 https://github.com/gilberto-009199/BugsBonny
