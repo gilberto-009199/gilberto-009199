@@ -209,10 +209,6 @@ mindmap
             <strong>![JQuery UI](./assets/jquery-ui.svg) JQuery UI</strong>
             <strong>![JQuery](./assets/jquery.svg) JQuery</strong>
           </small>
-          
-
-
-
 
 
 ## 2018
@@ -220,10 +216,16 @@ mindmap
 <!--  + Professional Experience:-->
 <!--  + My Contributions: -->
  + Activities:
+   - [**Manager NewsStands**](https://github.com/gilberto-009199/BugsBonny) - Newspaper Stand Manager.
+    <br/><small>
+            <strong>![PHP](./assets/php.svg) PHP</strong>
+            <strong>![Docker](./assets/docker16x16.svg) Docker</strong>
+            <strong>![MariaDB](./assets/mariadb.svg) MariaDB</strong>
+            <strong>![JQuery](./assets/jquery.svg) JQuery</strong>
+            <strong>![Vue](./assets/vuejs.svg) Vue</strong>
+          </small>
 
 
-
-https://github.com/gilberto-009199/BugsBonny
 
 https://github.com/gilberto-009199/jogo-forca-mobile
 
