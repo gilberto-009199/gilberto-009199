@@ -2,11 +2,11 @@
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="button">
             <rect id="Background" fill="#1966D2" x="0" y="0" width="1380" height="320" rx="40"></rect>
-            <text id="in-Gitpod" opacity="0.703985305" font-family="Arial,Helvetica,sans-serif" font-size="140" font-weight="normal" fill="#FFFFFF">
-                <tspan x="735" y="210">in Google Cloud</tspan>
+            <text id="in-Gitpod" opacity="0.703985305" font-family="Arial,Helvetica,sans-serif" font-size="100" font-weight="normal" fill="#FFFFFF">
+                <tspan x="700" y="210">Google Cloud </tspan>
             </text>
-            <text id="Code" font-family="Arial,Helvetica,sans-serif" font-size="140" font-weight="normal" fill="#FFFFFF">
-                <tspan x="350" y="210">Deploy</tspan>
+            <text id="Code" font-family="Arial,Helvetica,sans-serif" font-size="110" font-weight="normal" fill="#FFFFFF">
+                <tspan x="340" y="210">Deploy</tspan>
             </text>
             <g id="logo" fill="#FFFFFF" transform="translate(112.000000, 57.000000)">
                 <polygon id="Path" points="17.74 144.58 17.74 63.57 0 53.33 0 154.76 0 154.77 87.77 205.43 87.77 184.7"></polygon>
