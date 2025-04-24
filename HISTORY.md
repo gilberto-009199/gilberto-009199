@@ -224,13 +224,16 @@ mindmap
             <strong>![JQuery](./assets/jquery.svg) JQuery</strong>
             <strong>![Vue](./assets/vuejs.svg) Vue</strong>
           </small>
-   - [**Hangman Game on Mobile**](https://github.com/gilberto-009199/jogo-forca-mobile) - Hangman Game on Mobile.
+   - [**Hangman Game on Mobile**](https://github.com/gilberto-009199/jogo-forca-mobile) - Hangman Game on Mobile, draw words randomly.
     <br/><small>
             <strong>![Java](./assets/java16x16.svg) Java</strong>
             <strong>![Android](./assets/android.svg) Android</strong>
           </small>
-
-https://github.com/gilberto-009199/MyBooks
+   - [**Mobile Book Manager**](https://github.com/gilberto-009199/MyBooks) - Mobile Book Manager, crud books.
+    <br/><small>
+            <strong>![Java](./assets/java16x16.svg) Java</strong>
+            <strong>![Android](./assets/android.svg) Android</strong>
+          </small>
 
 ## 2017
 
