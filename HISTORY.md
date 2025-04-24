@@ -99,23 +99,29 @@ mindmap
             <strong>![Swagger](./assets/swagger.svg) Swagger</strong>
             <strong>![Lombok](./assets/lombok.svg) Lombok</strong>
           </small>
-   - [**Library in JSF**](https://github.com/gilberto-009199/bibliotecaJSF) - ;
+   - [**Library in JSF**](https://github.com/gilberto-009199/bibliotecaJSF) - The objective of this application is to serve as a basis for studying and evaluating the development;
     <br/><small>
             <strong>![Docker](./assets/docker16x16.svg) Docker</strong>
             <strong>![Docker](./assets/java16x16.svg) Java</strong>
             <strong>![Lombok](./assets/lombok.svg) Lombok</strong>
-            <strong>![Lombok](./assets/tomcat.svg) Tomcat</strong>
-            <strong><img src="./assets/jsf.png" height="16px" width="16px"> JSF</strong>
-            <strong>![Lombok](./assets/postgresql.svg) PostgreSQL</strong>
+            <strong>![tomcat apache](./assets/tomcat.svg) Tomcat</strong>
+            <strong><img src="./assets/jsf.png" height="16px" width="16px" alt="jsf"> JSF</strong>
+            <strong>![PostgreSQL](./assets/postgresql.svg) PostgreSQL</strong>
           </small>
-   - [**Manager OTP**](https://github.com/gilberto-009199/myauth) - ;
+   - [**Manager OTP**](https://github.com/gilberto-009199/myauth) - MyAuth, manager token OTP and HOTP, Usando Golang, React e Wails.
     <br/><small>
-            
+            <strong>![Wails](./assets/wails.svg) Wails</strong>
+            <strong>![Golang](./assets/golang.svg) Go</strong>
+            <strong>![React](./assets/react16x16.svg) React</strong>
+          </small>
+   
+    - [**Backend Example**](https://github.com/Javeiros-brasil/helpmatch-backend) - SpringBoot basic example;
+    <br/><small>
+            <strong>![Spring Boot](./assets/spring16x16.svg) Spring Boot</strong>
+            <strong>![PostgreSQL](./assets/postgresql.svg) PostgreSQL</strong>
+            <strong>![Lombok](./assets/lombok.svg) Lombok</strong>
           </small>
 
-<!-- add https://github.com/gilberto-009199/myauth -->.
-<!-- add https://github.com/gilberto-009199/bibliotecaJSF -->
-<!-- add https://github.com/Javeiros-brasil/helpmatch-backend -->
 <!-- add https://github.com/gilberto-009199/terra-invicta-traducao -->
 
 ## 2022
@@ -132,6 +138,7 @@ mindmap
             <strong>![PrimeNG](./assets/primeng.svg) PrimeNG</strong>
             <strong>![Lombok](./assets/lombok.svg) Lombok</strong>
           </small>
+
 <!-- add https://github.com/gilberto-009199/music -->
 <!-- add https://github.com/gilberto-009199/bencode -->
 <!-- add https://github.com/gilberto-009199/Estrutura-de-Dados -->
@@ -149,14 +156,12 @@ mindmap
             <strong>![MetaMask](./assets/metamask.svg) MetaMask</strong>
             <strong>![Vue](./assets/vuejs.svg) VUE</strong>
           </small>
-   - [**Site da AspenFlorest**](https://github.com/gilberto-009199/AspenX) - AspenX site cryptography
+   - [**Site da AspenFlorest**](https://github.com/gilberto-009199/AspenX) - AspenX site cryptocurrency.
     <br/><small>
             <strong>![Docker](./assets/docker16x16.svg) Docker</strong>
             <strong>![Bootstrap](./assets/bootstrap.svg) Bootstrap</strong>
             <strong>![JQuery](./assets/jquery.svg) JQuery</strong>
           </small>
-
-
 
 ## 2020
 
