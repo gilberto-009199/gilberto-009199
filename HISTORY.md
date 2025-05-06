@@ -6,7 +6,7 @@
 
 ```mermaid
 mindmap
-  root((My))
+  root((Journey))
     Dev/Programming
       BackEnd
         Java
