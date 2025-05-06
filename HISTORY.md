@@ -7,7 +7,7 @@
 ```mermaid
 mindmap
   root((My))
-    Dev
+    Dev/Programming
       BackEnd
       Frontend
     Ops/Network
