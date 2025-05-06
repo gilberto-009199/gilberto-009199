@@ -2,28 +2,26 @@
 
 [2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018](#2018) | [2017](#2017) 
 
-<!--
+<!-- -->
 
 ```mermaid
 mindmap
   root((My))
-    Origins
-      Long history
-      ::icon(fa fa-book)
-      Popularisation
-        British popular psychology author Tony Buzan
-    Research
-      On effectiveness<br/>and features
-      important
-        Uses
-            Creative techniques
-            Strategic planning
-            Argument mapping
-    Tools
-      Pen and paper
-      Mermaid
+    Dev
+      BackEnd
+      Frontend
+    Ops/Network
+      Linux
+        Debian family
+      AWS
+        SQS
+        S3
+        EC2
+      Scripting
+        Bash
+        Python
 ```
--->
+<!-- -->
 
 ## 2025
 
