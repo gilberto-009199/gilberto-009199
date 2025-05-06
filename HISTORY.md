@@ -9,7 +9,21 @@ mindmap
   root((My))
     Dev/Programming
       BackEnd
+        Java
+          Spring
+        Queue RabbitMQ
+        Cache Redis
+        PHP
+          Laravel Basic
+          WordPress Basic
       Frontend
+        Angular
+        React Basic
+        Vue Basic
+        Basic
+          HTML/CSS/JS
+          jquery
+          bootstrap
     Ops/Network
       Linux
         Debian family
