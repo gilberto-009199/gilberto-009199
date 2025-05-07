@@ -7,7 +7,7 @@
 ```mermaid
 mindmap
   root((Journey))
-    ((Dev/Programming))
+    ((Developer))
       (BackEnd)
         Java
           Vaadin Basic
@@ -47,7 +47,7 @@ mindmap
           HTML/CSS/JS
           jquery
           bootstrap
-    ((Ops/Network))
+    ((Infrastructure))
       Docker
       Linux Basic
         Debian family
