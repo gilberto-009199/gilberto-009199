@@ -1,7 +1,7 @@
 __English__ | [Português](https://github.com/gilberto-009199/gilberto-009199/blob/main/README_pt_BR.md)
 
 # 👋 Hi, I’m Gil.
-> Computer Science (IMPACTA) Bachelor's degre (2020-2024), Developer(SENAI) (2016-2018), Computer Networks (ITB) (2015-2017). 
+> Bachelor's degre Computer Science (IMPACTA) (2020-2024), Technical degree Developer(SENAI) (2016-2018), Technical degree Computer Networks (ITB) (2015-2017). 
 
 <!-- ADD INGLES AND PORTIGUES -->
 
