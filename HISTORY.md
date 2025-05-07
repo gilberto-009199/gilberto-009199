@@ -10,26 +10,29 @@ mindmap
     Dev/Programming
       BackEnd
         Java
-          Eureka Server
+          Vaadin Basic
           Lombok
           Tests with JUnit and Mockito
-          Hibernate
           FlyWay
-          JSP/Servlet
-          JSF/PrimeFaces
+          Java EE/Jakarta
+            JSP/Servlet
+            JSF/PrimeFaces
           Spring
             Spring Data
             Spring Cache
             Spring Gateway
-            Spring Gateway
             Spring Batch
             Spring Modulith
             Spring Statemachine
-        Swagger
-        Logging
-        Docker
-        Queue RabbitMQ
-        Cache Redis
+            Spring WebFlux
+            Eureka Server
+        Document/Metrics
+          Swagger
+          JavaDoc
+          Logging
+        Utility
+          Queue with RabbitMQ
+          Cache with Redis
         PHP
           Laravel Basic
           WordPress Basic
