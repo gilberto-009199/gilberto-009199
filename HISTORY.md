@@ -47,7 +47,7 @@ mindmap
           HTML/CSS/JS
           jquery
           bootstrap
-    ((Infrastructure))
+    ((Infra/Ops))
       Docker
       Linux Basic
         Debian family
