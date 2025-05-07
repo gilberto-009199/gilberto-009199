@@ -9,8 +9,8 @@ mindmap
   root((Journey))
     ((BackEnd))
     :::urgent large
-      Java
-        :::urgent large
+      (Java)
+      :::urgent large
         Vaadin Basic
         Lombok
         Tests with JUnit and Mockito
@@ -18,8 +18,8 @@ mindmap
         Java EE/Jakarta
           JSP/Servlet
           JSF/PrimeFaces
-        Spring
-          :::urgent large
+        ((Spring))
+        :::urgent large
           Spring Data
           Spring Cache
           Spring Gateway
@@ -27,8 +27,9 @@ mindmap
           Spring Modulith
           Spring Statemachine
           Spring WebFlux
+          Spring WebSocket
           Eureka Server
-      PHP
+      (PHP)
         Laravel Basic
         WordPress Basic
       (Utility)
