@@ -49,15 +49,15 @@ mindmap
           bootstrap
     Ops/Network
       Docker
-      Linux
+      Linux Basic
         Debian family
       AWS
         SQS
         S3
         EC2
       Scripting
-        Bash
-        Python
+        Bash Basic
+        Python Basic
 ```
 <!-- -->
 
