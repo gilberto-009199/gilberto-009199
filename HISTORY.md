@@ -1,3 +1,5 @@
+__English__ | [Português](https://github.com/gilberto-009199/gilberto-009199/blob/main/HISTORY_pt_BR.md)
+
 # Journey [under construction]
 
 [2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018](#2018) | [2017](#2017) 
