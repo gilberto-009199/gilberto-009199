@@ -10,7 +10,24 @@ mindmap
     Dev/Programming
       BackEnd
         Java
+          Eureka Server
+          Lombok
+          Tests with JUnit and Mockito
+          Hibernate
+          FlyWay
+          JSP/Servlet
+          JSF/PrimeFaces
           Spring
+            Spring Data
+            Spring Cache
+            Spring Gateway
+            Spring Gateway
+            Spring Batch
+            Spring Modulith
+            Spring Statemachine
+        Swagger
+        Logging
+        Docker
         Queue RabbitMQ
         Cache Redis
         PHP
@@ -18,13 +35,17 @@ mindmap
           WordPress Basic
       Frontend
         Angular
+          PrimeNG
+          Tests with Jasmine
         React Basic
         Vue Basic
+        Tests with PlayWire 
         Basic
           HTML/CSS/JS
           jquery
           bootstrap
     Ops/Network
+      Docker
       Linux
         Debian family
       AWS
