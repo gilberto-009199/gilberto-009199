@@ -30,12 +30,12 @@ mindmap
           Swagger
           JavaDoc
           Logging
-        Utility
-          Queue with RabbitMQ
-          Cache with Redis
         PHP
           Laravel Basic
           WordPress Basic
+        Utility
+          Queue with RabbitMQ
+          Cache with Redis
       Frontend
         Angular
           PrimeNG
