@@ -7,8 +7,8 @@
 ```mermaid
 mindmap
   root((Journey))
-    Dev/Programming
-      BackEnd
+    ((Dev/Programming))
+      (BackEnd)
         Java
           Vaadin Basic
           Lombok
@@ -26,17 +26,17 @@ mindmap
             Spring Statemachine
             Spring WebFlux
             Eureka Server
-        Document/Metrics
+        (Document/Metrics)
           Swagger
           JavaDoc
           Logging
         PHP
           Laravel Basic
           WordPress Basic
-        Utility
+        (Utility)
           Queue with RabbitMQ
           Cache with Redis
-      Frontend
+      (Frontend)
         Angular
           PrimeNG
           Tests with Jasmine
@@ -47,7 +47,7 @@ mindmap
           HTML/CSS/JS
           jquery
           bootstrap
-    Ops/Network
+    ((Ops/Network))
       Docker
       Linux Basic
         Debian family
@@ -55,7 +55,7 @@ mindmap
         SQS
         S3
         EC2
-      Scripting
+      (Scripting)
         Bash Basic
         Python Basic
 ```
