@@ -8,7 +8,9 @@
 mindmap
   root((Journey))
     ((BackEnd))
+    :::urgent large
       Java
+        :::urgent large
         Vaadin Basic
         Lombok
         Tests with JUnit and Mockito
@@ -17,6 +19,7 @@ mindmap
           JSP/Servlet
           JSF/PrimeFaces
         Spring
+          :::urgent large
           Spring Data
           Spring Cache
           Spring Gateway
@@ -25,16 +28,13 @@ mindmap
           Spring Statemachine
           Spring WebFlux
           Eureka Server
-      (Document/Metrics)
-        Swagger
-        JavaDoc
-        Logging
       PHP
         Laravel Basic
         WordPress Basic
       (Utility)
         Queue with RabbitMQ
         Cache with Redis
+        Swagger
     ((Infra/Ops))
       Docker
       Linux Basic
