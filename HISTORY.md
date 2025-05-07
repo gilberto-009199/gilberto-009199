@@ -7,46 +7,34 @@
 ```mermaid
 mindmap
   root((Journey))
-    ((Developer))
-      (BackEnd)
-        Java
-          Vaadin Basic
-          Lombok
-          Tests with JUnit and Mockito
-          FlyWay
-          Java EE/Jakarta
-            JSP/Servlet
-            JSF/PrimeFaces
-          Spring
-            Spring Data
-            Spring Cache
-            Spring Gateway
-            Spring Batch
-            Spring Modulith
-            Spring Statemachine
-            Spring WebFlux
-            Eureka Server
-        (Document/Metrics)
-          Swagger
-          JavaDoc
-          Logging
-        PHP
-          Laravel Basic
-          WordPress Basic
-        (Utility)
-          Queue with RabbitMQ
-          Cache with Redis
-      (Frontend)
-        Angular
-          PrimeNG
-          Tests with Jasmine
-        React Basic
-        Vue Basic
-        Tests with PlayWire 
-        Basic
-          HTML/CSS/JS
-          jquery
-          bootstrap
+    ((BackEnd))
+      Java
+        Vaadin Basic
+        Lombok
+        Tests with JUnit and Mockito
+        FlyWay
+        Java EE/Jakarta
+          JSP/Servlet
+          JSF/PrimeFaces
+        Spring
+          Spring Data
+          Spring Cache
+          Spring Gateway
+          Spring Batch
+          Spring Modulith
+          Spring Statemachine
+          Spring WebFlux
+          Eureka Server
+      (Document/Metrics)
+        Swagger
+        JavaDoc
+        Logging
+      PHP
+        Laravel Basic
+        WordPress Basic
+      (Utility)
+        Queue with RabbitMQ
+        Cache with Redis
     ((Infra/Ops))
       Docker
       Linux Basic
@@ -58,6 +46,17 @@ mindmap
       (Scripting)
         Bash Basic
         Python Basic
+    ((Frontend))
+        Angular
+          PrimeNG
+          Tests with Jasmine
+        React Basic
+        Vue Basic
+        Tests with PlayWire 
+        Basic
+          HTML/CSS/JS
+          jquery
+          bootstrap
 ```
 <!-- -->
 
