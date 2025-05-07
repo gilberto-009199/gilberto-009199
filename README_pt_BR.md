@@ -13,18 +13,18 @@
 
 - **Analista Full Stack em Startup, São Paulo, Brasil:** Front-end com Angular e Back-End com C#, em um marketplace e microservices com Spring Boot.
 <br/><small>
-        <strong>![Spring Boot](./assets/spring16x16.svg) Spring Boot</strong> 
-        <strong>![Java](./assets/java16x16.svg) Java</strong> 
-        <strong>![C#](./assets/c-sharp16x16.svg) C#</strong> 
-        <strong>![Angular](./assets/angularjs.svg) Angular</strong>
+        <strong>![Spring Boot](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/spring16x16.svg) Spring Boot</strong> 
+        <strong>![Java](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/java16x16.svg) Java</strong> 
+        <strong>![C#](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/c-sharp16x16.svg) C#</strong> 
+        <strong>![Angular](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/angularjs.svg) Angular</strong>
       </small>
 
 - **Analista de Sistemas Full Stack Java em Banco, São Paulo, Brasil:** Trabalhando com aplicações web e Java.
 <br/><small>
-        <strong>![Spring Boot](./assets/spring16x16.svg) Spring Boot</strong>
-        <strong>![Java](./assets/java16x16.svg) Java</strong> 
-        <strong>![Servlet](./assets/servelt16x16.svg) Servlet</strong>
-        <strong><img src="./assets/jsf.png" width="16" height="16"/> JSP/JSF</strong>
+        <strong>![Spring Boot](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/spring16x16.svg) Spring Boot</strong>
+        <strong>![Java](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/java16x16.svg) Java</strong> 
+        <strong>![Servlet](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/servelt16x16.svg) Servlet</strong>
+        <strong><img src="https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/jsf.png" width="16" height="16"/> JSP/JSF</strong>
   </small>
 -->
 
@@ -39,48 +39,48 @@
 
 - [**Desafio BackEnd Anotai**](https://github.com/gilberto-009199/desafio-anotai-backend-aws) - API para um sistema de gerenciamento de catálogo de produtos em um marketplace, usando S3 e SQS;
 <br/><small>
-        <strong>![Spring Boot](./assets/spring16x16.svg) Spring Boot</strong>
-        <strong>![Docker](./assets/docker16x16.svg) Docker</strong>
-        <strong>![Swagger](./assets/swagger.svg) Swagger</strong>
-        <strong>![MongoDB](./assets/mongodb.svg) MongoDB</strong>
-        <strong>![AWS](./assets/cloud16x16.svg) AWS</strong>
-        <strong>![S3](./assets/Arch_Amazon-Simple-Storage-Service_16.svg) S3 Bucket</strong>
-        <strong>![SQS](./assets/Arch_Amazon-Simple-Queue-Service_16.svg) SQS </strong>
-        <strong>![Terraform](./assets/terraform16x16.svg) Terraform</strong>
+        <strong>![Spring Boot](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/spring16x16.svg) Spring Boot</strong>
+        <strong>![Docker](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/docker16x16.svg) Docker</strong>
+        <strong>![Swagger](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/swagger.svg) Swagger</strong>
+        <strong>![MongoDB](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/mongodb.svg) MongoDB</strong>
+        <strong>![AWS](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/cloud16x16.svg) AWS</strong>
+        <strong>![S3](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/Arch_Amazon-Simple-Storage-Service_16.svg) S3 Bucket</strong>
+        <strong>![SQS](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/Arch_Amazon-Simple-Queue-Service_16.svg) SQS </strong>
+        <strong>![Terraform](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/terraform16x16.svg) Terraform</strong>
       </small>
 - [**Desafio BackEnd UolHost**](https://github.com/gilberto-009199/desafio-uolhost-backend) - Aplicação Java capaz de recuperar informações de arquivos XML e JSON;
 <br/><small>
-        <strong>![SpringBoot](./assets/spring16x16.svg) Spring Boot</strong>
-        <strong>![Docker](./assets/docker16x16.svg) Docker</strong>
-        <strong>![Bootstrap](./assets/bootstrap.svg) Bootstrap</strong>
+        <strong>![SpringBoot](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/spring16x16.svg) Spring Boot</strong>
+        <strong>![Docker](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/docker16x16.svg) Docker</strong>
+        <strong>![Bootstrap](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/bootstrap.svg) Bootstrap</strong>
       </small>
 - [**Desafio FullStack Jara**](https://github.com/gilberto-009199/avaliacao-full-stack) - Aplicação Angular com SpringBoot;
 <br/><small>
-        <strong>![Spring Boot](./assets/spring16x16.svg) Spring Boot</strong>
-        <strong>![Docker](./assets/docker16x16.svg) Docker</strong>
-        <strong>![Angular](./assets/angularjs.svg) Angular</strong>
-        <strong>![PrimeNG](./assets/primeng.svg) PrimeNG</strong>
-        <strong>![PrimeNG](./assets/lombok.svg) Lombok</strong>
+        <strong>![Spring Boot](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/spring16x16.svg) Spring Boot</strong>
+        <strong>![Docker](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/docker16x16.svg) Docker</strong>
+        <strong>![Angular](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/angularjs.svg) Angular</strong>
+        <strong>![PrimeNG](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/primeng.svg) PrimeNG</strong>
+        <strong>![PrimeNG](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/lombok.svg) Lombok</strong>
       </small>
 - [**Desafio BackEnd Itaú**](https://github.com/gilberto-009199/desafio-itau-backend) - API REST que recebe transações e retorna estatísticas sobre essas transações;
 <br/><small>
-        <strong>![Spring Boot](./assets/spring16x16.svg) Spring Boot</strong>
-        <strong>![Docker](./assets/docker16x16.svg) Docker</strong>
-        <strong>![Swagger](./assets/swagger.svg) Swagger</strong>
+        <strong>![Spring Boot](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/spring16x16.svg) Spring Boot</strong>
+        <strong>![Docker](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/docker16x16.svg) Docker</strong>
+        <strong>![Swagger](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/swagger.svg) Swagger</strong>
       </small>
 - [**Desafio BackEnd Athornatus**](https://github.com/gilberto-009199/desafio-athornatus-backend) - API simples para gerenciar pessoas, utilizando Spring Boot;
 <br/><small>
-        <strong>![Spring Boot](./assets/spring16x16.svg) Spring Boot</strong>
-        <strong>![Docker](./assets/docker16x16.svg) Docker</strong>
-        <strong>![Swagger](./assets/swagger.svg) Swagger</strong>
-        <strong>![Lombok](./assets/lombok.svg) Lombok</strong>
+        <strong>![Spring Boot](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/spring16x16.svg) Spring Boot</strong>
+        <strong>![Docker](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/docker16x16.svg) Docker</strong>
+        <strong>![Swagger](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/swagger.svg) Swagger</strong>
+        <strong>![Lombok](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/lombok.svg) Lombok</strong>
       </small>
 - [**Desafio BackEnd PicPay**](https://github.com/gilberto-009199/picpay-desafio-backend) - Plataforma simplificada de pagamentos. Permite depósitos e transferências de dinheiro entre usuários.
 <br/><small>
-        <strong>![Spring Boot](./assets/spring16x16.svg) Spring Boot</strong>
-        <strong>![Docker](./assets/docker16x16.svg) Docker</strong>
-        <strong>![Swagger](./assets/swagger.svg) Swagger</strong>
-        <strong>![Kafka](./assets/kafka16x16.svg) Kafka</strong>
+        <strong>![Spring Boot](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/spring16x16.svg) Spring Boot</strong>
+        <strong>![Docker](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/docker16x16.svg) Docker</strong>
+        <strong>![Swagger](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/swagger.svg) Swagger</strong>
+        <strong>![Kafka](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/kafka16x16.svg) Kafka</strong>
       </small>
 
 #### 📫 Como me encontrar:
