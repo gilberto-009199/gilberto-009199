@@ -72,8 +72,7 @@ graph TD
 
 <!--  + Professional Experience:-->
 <!--  + My Contributions:-->
-
- + Github Activities:
+ + Activities:
     - [**Challenge BackEnd Anotai**](https://github.com/gilberto-009199/desafio-anotai-backend-aws) - API for a product catalog management system in a marketplace application with S3 and SQS for catalog;
         <br/><small>
                 <strong>![Spring Boot](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/spring16x16.svg) Spring Boot</strong>
@@ -124,7 +123,7 @@ mindmap
       Mermaid
 ```-->
 <!---+ Professional Experience:-->
- + My Contributions:
+ + Projects:
    - [**Computer Graphics in JavaScript**](https://github.com/gilberto-009199/processamento_imagem) - Computer Graphics in Browser Application
     <br/><small>
             <strong>![JQuery](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/jquery.svg) JQuery</strong>
@@ -133,7 +132,7 @@ mindmap
           </small>
 <!--   - [**Procesamento**](https://github.com/gilberto-009199/processamento_imagem) - -->
 
- + Github Activities:
+ + Activities:
     - [**Challenge BackEnd PicPay**](https://github.com/gilberto-009199/picpay-desafio-backend) - Simplified payment platform. It allows you to deposit and transfer money between users
     <br/><small>
             <!-- <strong>![Spring Boot](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/spring16x16.svg) Spring Boot</strong> -->
@@ -157,7 +156,7 @@ mindmap
 ## 2023
 
 <!--  + Professional Experience:-->
- + My Contributions:
+ + Projects:
    - [**Translate Game Terra Invicta**](https://github.com/gilberto-009199/terra-invicta-traducao) - Translate Game Terra Invicta;
    - [**Backend Install XYZ**](https://github.com/gilberto-009199/como-instalar-xyz) - add tutorial install PostgreSQL in freebsd;
    - [**Manager OTP**](https://github.com/gilberto-009199/myauth) - MyAuth, manager token OTP and HOTP, Usando Golang, React e Wails.
@@ -167,7 +166,7 @@ mindmap
             <strong>![React](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/react16x16.svg) React</strong>
           </small>
 
- + Github Activities:
+ + Activities:
     - [**Challenge BackEnd Athornatus**](https://github.com/gilberto-009199/desafio-athornatus-backend) - Using Spring boot, create a simple API to manage People;
     <br/><small>
             <strong>![Spring Boot](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/spring16x16.svg) Spring Boot</strong>
@@ -195,7 +194,7 @@ mindmap
 ## 2022
 
 <!--  + Professional Experience:-->
- + My Contributions:
+ + Projects:
    - [**MyTorrent**](https://github.com/gilberto-009199/MyTorrent) - Torrent client implemented in Java;
     <br/><small>
             <strong>![Java](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/java16x16.svg) Java</strong>
@@ -205,7 +204,7 @@ mindmap
 <!-- add https://github.com/gilberto-009199/bencode -->
 <!-- add https://github.com/gilberto-009199/Estrutura-de-Dados -->
 
- + Github Activities:
+ + Activities:
     - [**Challenge FullStack Jara**](https://github.com/gilberto-009199/avaliacao-full-stack) - Angular Application with SpringBoot;
     <br/><small>
             <strong>![Spring Boot](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/spring16x16.svg) Spring Boot</strong>
@@ -218,7 +217,7 @@ mindmap
 ## 2021
 
 <!--  + Professional Experience:-->
- + My Contributions:
+ + Projects:
    - [**MyOS**](https://github.com/gilberto-009199/MyOS) - Worspace para criar um Sistema Operacional;
    - [**AspenFlorest**](https://github.com/AspenX-Community/AspenFlorest) - Browser Game;
     <br/><small>
@@ -227,7 +226,7 @@ mindmap
             <strong>![ThreeJS](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/threejs.svg) ThreeJS</strong>
           </small>
 
- + Github Activities:
+ + Activities:
    - [**Login Cryto Wallet Vue**](https://github.com/gilberto-009199/Login-Cripto-Wallet-Vue) - Login Cryto Wallet Vue;
     <br/><small>
             <strong>![Docker](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/docker16x16.svg) Docker</strong>
@@ -244,7 +243,7 @@ mindmap
 ## 2020
 
 <!--  + Professional Experience:-->
- + My Contributions:
+ + Projects:
    - [**Game in java**](https://github.com/gilberto-009199/mondoj) - Game 3d basic in LibGDX
     <br/><small>
             <strong>![Java](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/java16x16.svg) Java</strong>
@@ -256,7 +255,7 @@ mindmap
             <strong>![C++](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/cpp.svg) C++</strong>
           </small>
 
- + Github Activities:
+ + Activities:
    - [**Contact Book in JSP**](https://github.com/gilberto-009199/JAgendaWeb) - Web contact book made with JSP, Bootstrap and Jquery;
     <br/><small>
             <strong>![Docker](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/docker16x16.svg) Docker</strong>
@@ -276,7 +275,7 @@ mindmap
 
 <!--  + Professional Experience:-->
 <!--  + My Contributions: -->
- + Github Activities:
+ + Activities:
    - [**Mobshare TCC PHP**](https://github.com/gilberto-009199/mobshare) - Mobshare tcc Site for developer SENAI.
     <br/><small>
             <strong>![PHP](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/php.svg) PHP</strong>
@@ -296,7 +295,7 @@ mindmap
 
 <!--  + Professional Experience:-->
 <!--  + My Contributions: -->
- + Github Activities:
+ + Activities:
    - [**Manager NewsStands**](https://github.com/gilberto-009199/BugsBonny) - Newspaper Stand Manager.
     <br/><small>
             <strong>![PHP](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/php.svg) PHP</strong>
@@ -319,7 +318,7 @@ mindmap
 ## 2017
 
 <!--  + Professional Experience:-->
- + My Contributions:
+ + Projects:
    - [**Ping Broadcast**](https://github.com/gilberto-009199/ping) -  Ping Broadcast in visual basic.
     <br/><small>
             <strong>![Visual Basic](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/visualbasic.svg) Visual Basic</strong>
