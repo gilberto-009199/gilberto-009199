@@ -76,9 +76,7 @@ graph TD
  + Github Activities:
     - [**Challenge BackEnd Anotai**](https://github.com/gilberto-009199/desafio-anotai-backend-aws) - API for a product catalog management system in a marketplace application with S3 and SQS for catalog;
         <br/><small>
-                <!-- <strong>![Spring Boot](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/spring16x16.svg) Spring Boot</strong> -->
                 <strong>![Spring Boot](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/spring16x16.svg) Spring Boot</strong>
-                <!-- <strong>![Docker](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/docker16x16.svg) Docker</strong> -->
                 <strong>![Docker](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/docker16x16.svg) Docker</strong>
                 <strong>![Swagger](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/swagger.svg) Swagger</strong>
                 <strong>![MongoDB](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/mongodb.svg) MongoDB</strong>
@@ -160,7 +158,14 @@ mindmap
 
 <!--  + Professional Experience:-->
  + My Contributions:
-   - [Translate Game Terra Invicta](https://github.com/gilberto-009199/terra-invicta-traducao) - Translate Game Terra Invicta;
+   - [**Translate Game Terra Invicta**](https://github.com/gilberto-009199/terra-invicta-traducao) - Translate Game Terra Invicta;
+   - [**Backend Install XYZ**](https://github.com/gilberto-009199/como-instalar-xyz) - add tutorial install PostgreSQL in freebsd;
+   - [**Manager OTP**](https://github.com/gilberto-009199/myauth) - MyAuth, manager token OTP and HOTP, Usando Golang, React e Wails.
+    <br/><small>
+            <strong>![Wails](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/wails.svg) Wails</strong>
+            <strong>![Golang](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/golang.svg) Go</strong>
+            <strong>![React](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/react16x16.svg) React</strong>
+          </small>
 
  + Github Activities:
     - [**Challenge BackEnd Athornatus**](https://github.com/gilberto-009199/desafio-athornatus-backend) - Using Spring boot, create a simple API to manage People;
@@ -179,12 +184,6 @@ mindmap
             <strong><img src="https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/jsf.png" height="16px" width="16px" alt="jsf"> JSF</strong>
             <strong>![PostgreSQL](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/postgresql.svg) PostgreSQL</strong>
           </small>
-   - [**Manager OTP**](https://github.com/gilberto-009199/myauth) - MyAuth, manager token OTP and HOTP, Usando Golang, React e Wails.
-    <br/><small>
-            <strong>![Wails](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/wails.svg) Wails</strong>
-            <strong>![Golang](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/golang.svg) Go</strong>
-            <strong>![React](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/react16x16.svg) React</strong>
-          </small>
    
     - [**Backend Example**](https://github.com/Javeiros-brasil/helpmatch-backend) - SpringBoot basic example;
     <br/><small>
@@ -196,7 +195,12 @@ mindmap
 ## 2022
 
 <!--  + Professional Experience:-->
-<!--  + My Contributions: -->
+ + My Contributions:
+   - [**MyTorrent**](https://github.com/gilberto-009199/MyTorrent) - Torrent client implemented in Java;
+    <br/><small>
+            <strong>![Java](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/java16x16.svg) Java</strong>
+          </small>
+
 <!-- add https://github.com/gilberto-009199/music -->
 <!-- add https://github.com/gilberto-009199/bencode -->
 <!-- add https://github.com/gilberto-009199/Estrutura-de-Dados -->
@@ -211,12 +215,11 @@ mindmap
             <strong>![Lombok](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/lombok.svg) Lombok</strong>
           </small>
 
-
-
 ## 2021
 
 <!--  + Professional Experience:-->
  + My Contributions:
+   - [**MyOS**](https://github.com/gilberto-009199/MyOS) - Worspace para criar um Sistema Operacional;
    - [**AspenFlorest**](https://github.com/AspenX-Community/AspenFlorest) - Browser Game;
     <br/><small>
             <strong>![Vue](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/vuejs.svg) VUE</strong>
@@ -227,7 +230,6 @@ mindmap
  + Github Activities:
    - [**Login Cryto Wallet Vue**](https://github.com/gilberto-009199/Login-Cripto-Wallet-Vue) - Login Cryto Wallet Vue;
     <br/><small>
-            <!-- <strong>![Docker](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/docker16x16.svg) Docker</strong> -->
             <strong>![Docker](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/docker16x16.svg) Docker</strong>
             <strong>![MetaMask](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/metamask.svg) MetaMask</strong>
             <strong>![Vue](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/vuejs.svg) VUE</strong>
@@ -278,7 +280,6 @@ mindmap
    - [**Mobshare TCC PHP**](https://github.com/gilberto-009199/mobshare) - Mobshare tcc Site for developer SENAI.
     <br/><small>
             <strong>![PHP](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/php.svg) PHP</strong>
-            <!-- <strong>![Docker](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/docker16x16.svg) Docker</strong> -->
             <strong>![Docker](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/docker16x16.svg) Docker</strong>
             <strong>![MariaDB](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/mariadb.svg) MariaDB</strong>
             <strong>![JQuery](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/jquery.svg) JQuery</strong>
@@ -299,7 +300,6 @@ mindmap
    - [**Manager NewsStands**](https://github.com/gilberto-009199/BugsBonny) - Newspaper Stand Manager.
     <br/><small>
             <strong>![PHP](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/php.svg) PHP</strong>
-            <!-- <strong>![Docker](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/docker16x16.svg) Docker</strong> -->
             <strong>![Docker](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/docker16x16.svg) Docker</strong>
             <strong>![MariaDB](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/mariadb.svg) MariaDB</strong>
             <strong>![JQuery](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/jquery.svg) JQuery</strong>
