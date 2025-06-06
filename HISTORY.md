@@ -61,11 +61,6 @@ mindmap
 
 ## 2025
 
-<!--```mermaid
-graph TD
-    A[This is an <b>important</b> <a href='https://google.com'>link</a>]
-```-->
-
 <!--  + Professional Experience:-->
 <!--  + My Contributions:-->
  + Activities:
@@ -98,6 +93,10 @@ graph TD
               </small>
 
 ## 2024
+
+ + Academics:
+   - Bachelor's degre **Computer Science**
+     <br/><small>IMPACTA - "Impacta University" - Barra Funda</small>
 
 <!---+ Professional Experience:-->
  + Projects:
@@ -272,6 +271,9 @@ graph TD
 
 ## 2019
 
++ Academics:
+   -  Technical degree **Developer**(2017-2019)
+     <br/><small>SENAI - "Prof. Vicente Amato" - Jandira</small>
 <!--  + Professional Experience:-->
 <!--  + My Contributions: -->
  + Contributions:
@@ -316,6 +318,9 @@ graph TD
 
 ## 2017
 
+ + Academics:
+   - Technical degree **Computer Networks**(2015-2017)
+     <br/><small>ITB - "Barueri Technical Institute" - Barueri</small>
 <!--  + Professional Experience:-->
  + Projects:
    - [**Ping Broadcast**](https://github.com/gilberto-009199/ping) -  Ping Broadcast in visual basic.
