@@ -103,25 +103,6 @@ graph TD
 
 ## 2024
 
-<!--```mermaid
-mindmap
-  root((mindmap))
-    Origins
-      Long history
-      ::icon(fa fa-book)
-      Popularisation
-        British popular psychology author Tony Buzan
-    Research
-      On effectiveness<br/>and features
-      important
-        Uses
-            Creative techniques
-            Strategic planning
-            Argument mapping
-    Tools
-      Pen and paper
-      Mermaid
-```-->
 <!---+ Professional Experience:-->
  + Projects:
    - [**Computer Graphics in JavaScript**](https://github.com/gilberto-009199/processamento_imagem) - Computer Graphics in Browser Application
@@ -156,9 +137,10 @@ mindmap
 ## 2023
 
 <!--  + Professional Experience:-->
+ + Contributions:
+   - [**Backend Install XYZ**](https://github.com/gilberto-009199/como-instalar-xyz) - add tutorial install PostgreSQL in freebsd;
  + Projects:
    - [**Translate Game Terra Invicta**](https://github.com/gilberto-009199/terra-invicta-traducao) - Translate Game Terra Invicta;
-   - [**Backend Install XYZ**](https://github.com/gilberto-009199/como-instalar-xyz) - add tutorial install PostgreSQL in freebsd;
    - [**Manager OTP**](https://github.com/gilberto-009199/myauth) - MyAuth, manager token OTP and HOTP, Usando Golang, React e Wails.
     <br/><small>
             <strong>![Wails](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/wails.svg) Wails</strong>
@@ -217,22 +199,24 @@ mindmap
 ## 2021
 
 <!--  + Professional Experience:-->
- + Projects:
-   - [**MyOS**](https://github.com/gilberto-009199/MyOS) - Worspace para criar um Sistema Operacional;
-   - [**AspenFlorest**](https://github.com/AspenX-Community/AspenFlorest) - Browser Game;
+ + Contributions:
+    - [**AspenFlorest**](https://github.com/AspenX-Community/AspenFlorest) - Browser Game;
     <br/><small>
             <strong>![Vue](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/vuejs.svg) VUE</strong>
             <strong>![JavaScript](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/javascript.svg) JavaScript</strong>
             <strong>![ThreeJS](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/threejs.svg) ThreeJS</strong>
           </small>
 
- + Activities:
+ + Projects:
+   - [**MyOS**](https://github.com/gilberto-009199/MyOS) - Worspace para criar um Sistema Operacional;
    - [**Login Cryto Wallet Vue**](https://github.com/gilberto-009199/Login-Cripto-Wallet-Vue) - Login Cryto Wallet Vue;
     <br/><small>
             <strong>![Docker](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/docker16x16.svg) Docker</strong>
             <strong>![MetaMask](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/metamask.svg) MetaMask</strong>
             <strong>![Vue](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/vuejs.svg) VUE</strong>
           </small>
+
+ + Activities:
    - [**Site of AspenFlorest**](https://github.com/gilberto-009199/AspenX) - AspenX site cryptocurrency.
     <br/><small>
             <strong>![Docker](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/docker16x16.svg) Docker</strong>
@@ -250,12 +234,12 @@ mindmap
             <strong><img src="https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/gdx.svg" height="12px" alt="libGDX"></strong>
           </small>
 
+ + Activities:
    - [**Http Server in C++**](https://github.com/gilberto-009199/http-server-cpp) - Http server implemented in C++;
     <br/><small>
             <strong>![C++](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/cpp.svg) C++</strong>
           </small>
 
- + Activities:
    - [**Contact Book in JSP**](https://github.com/gilberto-009199/JAgendaWeb) - Web contact book made with JSP, Bootstrap and Jquery;
     <br/><small>
             <strong>![Docker](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/docker16x16.svg) Docker</strong>
@@ -275,7 +259,7 @@ mindmap
 
 <!--  + Professional Experience:-->
 <!--  + My Contributions: -->
- + Activities:
+ + Contributions:
    - [**Mobshare TCC PHP**](https://github.com/gilberto-009199/mobshare) - Mobshare tcc Site for developer SENAI.
     <br/><small>
             <strong>![PHP](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/php.svg) PHP</strong>
