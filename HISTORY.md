@@ -126,8 +126,14 @@ mindmap
       Mermaid
 ```-->
 <!---+ Professional Experience:-->
-<!---+ My Contributions:-->
-
+ + My Contributions:
+   - [**Computer Graphics in JavaScript**](https://github.com/gilberto-009199/processamento_imagem) - Computer Graphics in Browser Application
+    <br/><small>
+            <strong>![JQuery](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/jquery.svg) JQuery</strong>
+            <strong>![JavaScript](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/javascript.svg) JavaScript</strong>
+            <strong>![Bootstrap](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/bootstrap.svg) Bootstrap</strong>
+          </small>
+<!--   - [**Procesamento**](https://github.com/gilberto-009199/processamento_imagem) - -->
 
  + Github Activities:
     - [**Challenge BackEnd PicPay**](https://github.com/gilberto-009199/picpay-desafio-backend) - Simplified payment platform. It allows you to deposit and transfer money between users
@@ -144,33 +150,28 @@ mindmap
       <br/><small>
             <strong>![Scala](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/scala.svg) Scala</strong>
             <strong>![Java](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/java16x16.svg) Java</strong>
-            <!-- <strong>![Docker](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/docker16x16.svg) Docker</strong> -->
             <strong>![Docker](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/docker16x16.svg) Docker</strong>
             <strong>![Hadoop](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/hadoop.svg) Hadoop</strong>
             <strong>![MongoDB](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/mongodb.svg) MongoDB</strong>
             <strong>![PostgreSQL](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/postgresql.svg) PostgreSQL</strong>
           </small>
 
-<!-- add https://github.com/gilberto-009199/processamento_imagem -->
-
 ## 2023
 
 <!--  + Professional Experience:-->
-<!--  + My Contributions: -->
+ + My Contributions:
+   - [Translate Game Terra Invicta](https://github.com/gilberto-009199/terra-invicta-traducao) - Translate Game Terra Invicta;
 
  + Github Activities:
     - [**Challenge BackEnd Athornatus**](https://github.com/gilberto-009199/desafio-athornatus-backend) - Using Spring boot, create a simple API to manage People;
     <br/><small>
-            <!-- <strong>![Spring Boot](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/spring16x16.svg) Spring Boot</strong> -->
             <strong>![Spring Boot](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/spring16x16.svg) Spring Boot</strong>
-            <!-- <strong>![Docker](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/docker16x16.svg) Docker</strong> -->
             <strong>![Docker](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/docker16x16.svg) Docker</strong>
             <strong>![Swagger](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/swagger.svg) Swagger</strong>
             <strong>![Lombok](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/lombok.svg) Lombok</strong>
           </small>
-   - [**Library in JSF**](https://github.com/gilberto-009199/bibliotecaJSF) - The objective of this application is to serve as a basis for studying and evaluating the development;
+   - [**Challenge Library in JSF**](https://github.com/gilberto-009199/bibliotecaJSF) - The objective of this application is to serve as a basis for studying and evaluating the development;
     <br/><small>
-            <!-- <strong>![Docker](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/docker16x16.svg) Docker</strong> -->
             <strong>![Docker](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/docker16x16.svg) Docker</strong>
             <strong>![java](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/java16x16.svg) Java</strong>
             <strong>![Lombok](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/lombok.svg) Lombok</strong>
@@ -187,49 +188,40 @@ mindmap
    
     - [**Backend Example**](https://github.com/Javeiros-brasil/helpmatch-backend) - SpringBoot basic example;
     <br/><small>
-            <!-- <strong>![Spring Boot](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/spring16x16.svg) Spring Boot</strong> -->
             <strong>![Spring Boot](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/spring16x16.svg) Spring Boot</strong>
             <strong>![PostgreSQL](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/postgresql.svg) PostgreSQL</strong>
             <strong>![Lombok](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/lombok.svg) Lombok</strong>
           </small>
 
-<!-- add https://github.com/gilberto-009199/terra-invicta-traducao -->
-
 ## 2022
 
 <!--  + Professional Experience:-->
 <!--  + My Contributions: -->
+<!-- add https://github.com/gilberto-009199/music -->
+<!-- add https://github.com/gilberto-009199/bencode -->
+<!-- add https://github.com/gilberto-009199/Estrutura-de-Dados -->
 
  + Github Activities:
     - [**Challenge FullStack Jara**](https://github.com/gilberto-009199/avaliacao-full-stack) - Angular Application with SpringBoot;
     <br/><small>
-            <!-- <strong>![Spring Boot](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/spring16x16.svg) Spring Boot</strong> -->
             <strong>![Spring Boot](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/spring16x16.svg) Spring Boot</strong>
-            <!-- <strong>![Docker](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/docker16x16.svg) Docker</strong> -->
             <strong>![Docker](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/docker16x16.svg) Docker</strong>
-            <!--<strong>![Angular](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/angularjs.svg) Angular</strong>-->
             <strong>![Angular](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/angularjs.svg) Angular</strong>
-            <!-- <strong>![PrimeNG](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/primeng.svg) PrimeNG</strong> -->
             <strong>![PrimeNG](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/primeng.svg) PrimeNG</strong>
-            <!-- <strong>![Lombok](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/lombok.svg) Lombok</strong> -->
             <strong>![Lombok](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/lombok.svg) Lombok</strong>
           </small>
 
-<!-- add https://github.com/gilberto-009199/music -->
-<!-- add https://github.com/gilberto-009199/bencode -->
-<!-- add https://github.com/gilberto-009199/Estrutura-de-Dados -->
 
 
 ## 2021
 
 <!--  + Professional Experience:-->
  + My Contributions:
-
-  - [**AspenFlorest**](https://github.com/AspenX-Community/AspenFlorest) - Browser Game;
+   - [**AspenFlorest**](https://github.com/AspenX-Community/AspenFlorest) - Browser Game;
     <br/><small>
             <strong>![Vue](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/vuejs.svg) VUE</strong>
             <strong>![JavaScript](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/javascript.svg) JavaScript</strong>
-            <!--<strong>![ThreeJS](https://raw.githubusercontent.com/mrdoob/three.js/38bf5f47a8c01a1d12d16a41b4097dc9ee31daad/files/icon.svg) ThreeJS</strong>-->
+            <strong>![ThreeJS](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/threejs.svg) ThreeJS</strong>
           </small>
 
  + Github Activities:
@@ -242,7 +234,6 @@ mindmap
           </small>
    - [**Site of AspenFlorest**](https://github.com/gilberto-009199/AspenX) - AspenX site cryptocurrency.
     <br/><small>
-            <!-- <strong>![Docker](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/docker16x16.svg) Docker</strong> -->
             <strong>![Docker](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/docker16x16.svg) Docker</strong>
             <strong>![Bootstrap](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/bootstrap.svg) Bootstrap</strong>
             <strong>![JQuery](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/jquery.svg) JQuery</strong>
@@ -258,10 +249,14 @@ mindmap
             <strong><img src="https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/gdx.svg" height="12px" alt="libGDX"></strong>
           </small>
 
+   - [**Http Server in C++**](https://github.com/gilberto-009199/http-server-cpp) - Http server implemented in C++;
+    <br/><small>
+            <strong>![C++](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/cpp.svg) C++</strong>
+          </small>
+
  + Github Activities:
    - [**Contact Book in JSP**](https://github.com/gilberto-009199/JAgendaWeb) - Web contact book made with JSP, Bootstrap and Jquery;
     <br/><small>
-            <!-- <strong>![Docker](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/docker16x16.svg) Docker</strong> -->
             <strong>![Docker](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/docker16x16.svg) Docker</strong>
             <strong>![Servlets](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/servelt16x16.svg) Servlets</strong>
             <strong>![Tomcat apache](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/tomcat.svg) Tomcat</strong>
@@ -273,10 +268,7 @@ mindmap
     <br/><small>
             <strong>![JavaScript](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/javascript.svg) JavaScript</strong>
           </small>
-   - [**Http Server in C++**](https://github.com/gilberto-009199/http-server-cpp) - Http server implemented in C++;
-    <br/><small>
-            <strong>![C++](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/cpp.svg) C++</strong>
-          </small>
+
 
 ## 2019
 
