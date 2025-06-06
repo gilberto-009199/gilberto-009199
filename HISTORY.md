@@ -56,10 +56,6 @@ mindmap
         React Basic
         Vue Basic
         Tests with PlayWire 
-        Basic
-          HTML/CSS/JS
-          jquery
-          bootstrap
 ```
 <!-- -->
 
