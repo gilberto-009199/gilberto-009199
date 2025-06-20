@@ -1,13 +1,12 @@
 __English__ | [Português](https://github.com/gilberto-009199/gilberto-009199/blob/main/README_pt_BR.md)
 
 # 👋 Hi, I’m Gil.
-> Bachelor's degre Computer Science (IMPACTA) (2020-2024), Technical degree Developer(SENAI) (2016-2018), Technical degree Computer Networks (ITB) (2015-2017). 
+> Full Stack Java Developer with a focus on backend
 
-<!-- ADD INGLES AND PORTIGUES -->
 
 <!--- [![GitHub Game of Life](https://github4life.herokuapp.com/gilberto-009199.gif?z=6)](https://github4life.herokuapp.com/gilberto-009199) -->
 
-<!---
+<!---- 
 ### 🌱 Professional Experience:
 
 - **Full Stack Analyst in Startup,São Paulo, Brazil:** Front-end with Angular and Back-End with C#, from a marketplace and microservices with Spring Boot.
@@ -25,7 +24,7 @@ __English__ | [Português](https://github.com/gilberto-009199/gilberto-009199/bl
         <strong>![C#](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/servelt16x16.svg) Servlet</strong>
         <strong><img src="https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/jsf.png" width="16" height="16"/> JSP/JSF</strong>
   </small>
--->
+<!---->
 
 #### 💞️ My Contributions:
 
@@ -98,13 +97,8 @@ https://www.holopin.io/@gilberto009199
 [<img alt="badge of Java HackerRanks 5 starts" align="right" width="100" height="100" src="https://github.com/user-attachments/assets/a2a523f6-1c89-442c-92e1-cbf240910479">](
 https://www.hackerrank.com/profile/gilberto_tec
 )
-<!--[<img alt="Count Visiteds" src="https://profile-counter.glitch.me/gilberto-009199/count.svg">](https://profile-counter.glitch.me/gilberto-009199/count.svg)
--->
 
-<!---
-gilberto-009199/gilberto-009199 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 <small style="float: leaft;">"Programs about Programs, Systems about Systems"</small>
 
 <a href="HISTORY.md"> READ MORE </a>
