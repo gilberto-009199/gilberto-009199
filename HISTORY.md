@@ -323,6 +323,15 @@ mindmap
    - Technical degree **Computer Networks**(2015-2017)
      <br/><small>ITB - "Barueri Technical Institute" - Barueri</small>
 <!--  + Professional Experience:-->
+ + Contributions:
+   - [**SmartNetwork TCC**](https://github.com/gilberto-009199/lab-tcc) -  Lab. TCC from Call Center in GNS3.
+    <br/><small>
+            <strong>Squid</strong>
+            <strong>Asterisk</strong>
+            <strong>Samba</strong>
+            <strong>Bacula</strong>
+            <strong>Zabbix</strong>
+          </small>
  + Projects:
    - [**Ping Broadcast**](https://github.com/gilberto-009199/ping) -  Ping Broadcast in visual basic.
     <br/><small>
