@@ -63,6 +63,11 @@ mindmap
 
 <!--  + Professional Experience:-->
 <!--  + My Contributions:-->
+
+ + Academics:
+   - Bachelor's degre **Computer Science**(2020-2025)
+     <br/><small>IMPACTA - "Impacta University" - Barra Funda</small>
+
  + Activities:
     - [**Challenge BackEnd Anotai**](https://github.com/gilberto-009199/desafio-anotai-backend-aws) - API for a product catalog management system in a marketplace application with S3 and SQS for catalog;
         <br/><small>
@@ -93,10 +98,6 @@ mindmap
               </small>
 
 ## 2024
-
- + Academics:
-   - Bachelor's degre **Computer Science**
-     <br/><small>IMPACTA - "Impacta University" - Barra Funda</small>
 
 <!---+ Professional Experience:-->
  + Projects:
