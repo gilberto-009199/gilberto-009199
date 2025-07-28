@@ -31,7 +31,7 @@ __English__ | [Português](https://github.com/gilberto-009199/gilberto-009199/bl
 - [**Torrent for Java**](https://github.com/gilberto-009199/MyTorrent) - Torrent client implemented in java, reference project for the implementation of the BitTorrent protocol. 
 - [**Install-XYZ**](https://github.com/backend-br/como-instalar-xyz) - Repository with various tutorials to install various things on various operating systems
 - [**Warlords**](https://github.com/warlords2) - Warlords is a real-time strategy (RTS) game set between the 4th and 7th centuries. 
-- [**MyOS**](https://github.com/gilberto-009199/MyOS) - Small Operating System for studies.
+- [**Caramelo-OS**](https://github.com/gilberto-009199/caramelo-OS) - Meme distro based debian.
 
 #### 🌱 Recent Activities:
 
