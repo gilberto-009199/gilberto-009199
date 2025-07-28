@@ -324,5 +324,3 @@ mindmap
             <strong>![Visual Basic](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/visualbasic.svg) Visual Basic</strong>
           </small>
 
-## initial 
-
