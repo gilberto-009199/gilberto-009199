@@ -65,7 +65,7 @@ mindmap
 <!--  + My Contributions:-->
 
  + Academics:
-   - Bachelor's degre **Computer Science**(2020-2025)
+   - Bachelor's degre **Computer Science**(2020-2025....)
      <br/><small>IMPACTA - "Impacta University" - Barra Funda</small>
 
  + Activities:
