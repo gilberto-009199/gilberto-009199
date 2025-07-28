@@ -262,7 +262,7 @@ mindmap
 ## 2019
 
 + Academics:
-   -  Technical degree **Developer**(2017-2019)
+   -  Technical degree **Software Developer**(2017-2019)
      <br/><small>SENAI - "Prof. Vicente Amato" - Jandira</small>
 <!--  + Professional Experience:-->
  + Github Activities:
