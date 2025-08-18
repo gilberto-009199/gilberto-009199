@@ -17,9 +17,6 @@ mindmap
         Lombok
         Tests with JUnit and Mockito
         FlyWay
-        Java EE/Jakarta
-          JSP/Servlet
-          JSF/PrimeFaces
         ((Spring))
         :::urgent large
           Spring Data
