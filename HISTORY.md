@@ -33,7 +33,6 @@ mindmap
           Eureka Server
       (PHP)
         Laravel Basic
-        WordPress Basic
       (Utility)
         Queue with RabbitMQ
         Cache with Redis
