@@ -3,9 +3,6 @@ __English__ | [Português](https://github.com/gilberto-009199/gilberto-009199/bl
 # 👋 Hi, I’m Gil.
 > Full Stack Java Developer with a focus on backend
 
-
-<!--- [![GitHub Game of Life](https://github4life.herokuapp.com/gilberto-009199.gif?z=6)](https://github4life.herokuapp.com/gilberto-009199) -->
-
 <!---- 
 ### 🌱 Professional Experience:
 
@@ -87,9 +84,9 @@ __English__ | [Português](https://github.com/gilberto-009199/gilberto-009199/bl
 #### 📫 How to Reach me:
 
 - [gilberto.tec@vivaldi.net](mailto:gilberto.tec@vivaldi.net)
-<!-- - [Wikipedia](https://pt.wikipedia.org/wiki/Especial:Contribui%C3%A7%C3%B5es/Tel_front) -->
 - [Stackoverflow](https://stackoverflow.com/users/12253435/gil)
 - [GUJ](https://www.guj.com.br/u/gil090199)
+<!-- - [Wikipedia](https://pt.wikipedia.org/wiki/Especial:Contribui%C3%A7%C3%B5es/Tel_front) -->
 
 <!-- [Read More]() -->
 
