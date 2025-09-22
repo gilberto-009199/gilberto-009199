@@ -5,18 +5,22 @@ __English__ | [Português](https://github.com/gilberto-009199/gilberto-009199/bl
 [2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018](#2018) | [2017](#2017) 
 
 ```mermaid
+---
+config:
+  theme: 'neutral'
+---
 mindmap
   root((skills))
     ((BackEnd))
-      (Java)
-        Vaadin Basic
-        Lombok
+      ((Java))
         Tests with JUnit and Mockito
         FlyWay
-        Spring
-      (PHP)
+        Spring framework
+          Spring Data
+          Spring Cache
+      PHP
         Laravel Basic
-      (Utility)
+      Utility
         Queue with RabbitMQ
         Cache with Redis
         Swagger
@@ -28,7 +32,7 @@ mindmap
         SQS
         S3
         EC2
-      (Scripting)
+      Scripting
         Bash Basic
         Python Basic
     ((Frontend))
