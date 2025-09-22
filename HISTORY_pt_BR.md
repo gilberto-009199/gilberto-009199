@@ -247,7 +247,7 @@ mindmap
 ## 2019
 
 + Atividades Academicas:
-   -  Tecnico em Desenvolvimento de Sistemas(2017-2019)
+   -  Tecnico em **Desenvolvimento de Sistemas**(2017-2019)
      <br/><small>SENAI - "Prof. Vicente Amato" - Jandira</small>
 <!--  + Professional Experience:-->
  + Atividades do Github:
