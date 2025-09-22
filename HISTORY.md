@@ -4,30 +4,16 @@ __English__ | [Português](https://github.com/gilberto-009199/gilberto-009199/bl
 
 [2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018](#2018) | [2017](#2017) 
 
-<!-- -->
-
 ```mermaid
 mindmap
   root((skills))
     ((BackEnd))
-    :::urgent large
       (Java)
-      :::urgent large
         Vaadin Basic
         Lombok
         Tests with JUnit and Mockito
         FlyWay
-        ((Spring))
-        :::urgent large
-          Spring Data
-          Spring Cache
-          Spring Gateway
-          Spring Batch
-          Spring Modulith
-          Spring Statemachine
-          Spring WebFlux
-          Spring WebSocket
-          Eureka Server
+        Spring
       (PHP)
         Laravel Basic
       (Utility)
@@ -51,9 +37,8 @@ mindmap
           Tests with Jasmine
         React Basic
         Vue Basic
-        Tests with PlayWire 
+        Tests with playwright 
 ```
-<!-- -->
 
 ## 2025
 
