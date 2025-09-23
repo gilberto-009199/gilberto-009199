@@ -56,7 +56,7 @@ mindmap
  + Github Activities:
     - [**Code Editor**](https://github.com/gilberto-009199/CodeEditor) - Editor and Runner portable JavaScript and Python. Make in GraalVM Polyglot and JavaFX;
         <br/><small>
-                <strong>![GraalVM](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/graalvm16x16.svg) GraalVM Polyglot</strong>
+                <strong>![GraalVM](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/graalvm.svg) GraalVM Polyglot</strong>
                 <strong>![JavaScript](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/javascript16x16.svg) JavaScript</strong>
                 <strong>![Python](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/python16x16.svg) Python</strong>
               </small>
