@@ -23,13 +23,14 @@ __English__ | [Português](https://github.com/gilberto-009199/gilberto-009199/bl
   </small>
 <!---->
 
-#### 💞️ My Contributions:
+#### 💞️ My Personal Contributions:
 
-- [**Torrent for Java**](https://github.com/gilberto-009199/MyTorrent) - Torrent client implemented in java, reference project for the implementation of the BitTorrent protocol. 
+- [**Code Editor**](https://github.com/gilberto-009199/CodeEditor) - Editor and Runner portable JavaScript and Python. Make in GraalVM Polyglot and JavaFX;
+- [**MyAuth**](https://github.com/gilberto-009199/myauth) - Manager token OTP.
+- [**Torrent for Java**](https://github.com/gilberto-009199/MyTorrent) - Torrent client implemented in java, reference project for the implementation of the BitTorrent protocol.
 - [**Install-XYZ**](https://github.com/backend-br/como-instalar-xyz) - Repository with various tutorials to install various things on various operating systems
 - [**Warlords**](https://github.com/warlords2) - Warlords is a real-time strategy (RTS) game set between the 4th and 7th centuries. 
 - [**Caramelo-OS**](https://github.com/gilberto-009199/caramelo-OS) - Meme distro based debian.
-- [**MyAuth**](https://github.com/gilberto-009199/myauth) - Manager token OTP.
 - [**Login Cripto Wallet Vue**](https://github.com/gilberto-009199/Login-Cripto-Wallet-Vue) - About Nonce Login, Metamask, Trustwallet in Vue Nuxt Ethers.
 
 
