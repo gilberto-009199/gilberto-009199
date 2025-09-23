@@ -1,4 +1,4 @@
-[English](https://github.com/gilberto-009199/gilberto-009199/blob/main/HISTORY.md) | __Português__
+[English](HISTORY.md) | __Português__
 
 # Jornada
 
