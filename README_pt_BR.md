@@ -1,4 +1,4 @@
-[English](https://github.com/gilberto-009199/gilberto-009199/blob/main/README_pt_BR.md) | __Português__
+[English](README.md) | __Português__
 
 # 👋 Olá, eu sou o Gil.
 > Desenvolvedor Full Stack Java com foco em backend
