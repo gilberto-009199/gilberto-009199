@@ -1,4 +1,4 @@
-__English__ | [Português](https://github.com/gilberto-009199/gilberto-009199/blob/main/HISTORY_pt_BR.md)
+__English__ | [Português](HISTORY_pt_BR.md)
 
 # Journey
 
