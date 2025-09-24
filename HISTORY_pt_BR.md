@@ -55,6 +55,12 @@ mindmap
      <br/><small>IMPACTA - "Impacta University" - Barra Funda</small>
 
  + Atividades do Github:
+   - [**Code Editor**](https://github.com/gilberto-009199/CodeEditor) - Editor e Executador portátil para JavaScript e Python. Desenvolvido com GraalVM Polyglot e JavaFX;
+        <br/><small>
+                <strong>![GraalVM](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/graalvm.svg) GraalVM Polyglot</strong>
+                <strong>![JavaScript](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/javascript16x16.svg) JavaScript</strong>
+                <strong>![Python](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/python16x16.svg) Python</strong>
+              </small>
     - [**Desafio BackEnd Anotai**](https://github.com/gilberto-009199/desafio-anotai-backend-aws) - API para um sistema de gerenciamento de catálogo de produtos em um aplicativo de marketplace com S3 e SQS para catálogo;
         <br/><small>
                 <strong>![Spring Boot](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/spring16x16.svg) Spring Boot</strong>
