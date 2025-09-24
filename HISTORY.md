@@ -18,6 +18,7 @@ mindmap
         Spring framework
           Spring Data
           Spring Cache
+          Spring WebSocket
       PHP
         Laravel Basic
       Utility
