@@ -69,11 +69,11 @@
     <!-- - [Wikipedia](https://pt.wikipedia.org/wiki/Especial:Contribui%C3%A7%C3%B5es/Tel_front) -->
 
 <!-- - [Leia Mais]() -->
-
+<!--
 [<img alt="badge of Dapr Community Supporter" align="right" width="100" height="100" src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG80MmhnanIxOTg2ODBmbWs1ZGd6Y3dyOSIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19">](https://www.holopin.io/@gilberto009199)
 
 [<img alt="badge of Java HackerRanks 5 starts" align="right" width="100" height="100" src="https://github.com/user-attachments/assets/a2a523f6-1c89-442c-92e1-cbf240910479">](https://www.hackerrank.com/profile/gilberto_tec)
-
+-->
 <small style="float: leaft;">"Programas sobre Programas, Sistemas sobre Sistemas"</small>
 
 <a href="HISTORY_pt_BR.md"> LEIA MAIS </a>
