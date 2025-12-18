@@ -3,25 +3,6 @@ __English__ | [Português](https://github.com/gilberto-009199/gilberto-009199/bl
 # 👋 Hi, I’m Gil.
 > Full Stack Java Developer with a focus on backend
 
-<!---- 
-### 🌱 Professional Experience:
-
-- **Full Stack Analyst in Startup,São Paulo, Brazil:** Front-end with Angular and Back-End with C#, from a marketplace and microservices with Spring Boot.
-<br/><small>
-        <strong>![Spring Boot](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/spring16x16.svg) Spring Boot</strong> 
-        <strong>![Spring Boot](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/java16x16.svg) Java</strong> 
-        <strong>![C#](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/c-sharp16x16.svg) C#</strong> 
-        <strong>![Angular](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/angularjs.svg) Angular</strong>
-      </small>
-
-- **Full Stack Java Systems Analyst in Bank, São Paulo, Brazil:** Working with java web and applications.
-<br/><small>
-        <strong>![Spring Boot](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/spring16x16.svg) Spring Boot</strong>
-        <strong>![Spring Boot](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/java16x16.svg) Java</strong> 
-        <strong>![C#](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/servelt16x16.svg) Servlet</strong>
-        <strong><img src="https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/jsf.png" width="16" height="16"/> JSP/JSF</strong>
-  </small>
-<!---->
 
 #### 💞️ My Personal Contributions:
 
@@ -32,7 +13,7 @@ __English__ | [Português](https://github.com/gilberto-009199/gilberto-009199/bl
 - [**Caramelo-OS**](https://github.com/gilberto-009199/caramelo-OS) - Meme distro based debian.
 - [**Login Cripto Wallet Vue**](https://github.com/gilberto-009199/Login-Cripto-Wallet-Vue) - About Nonce Login, Metamask, Trustwallet in Vue Nuxt Ethers.
 
-
+<!--
 #### 🌱 Recent Activities:
 
 - [**Challenge BackEnd Anotai**](https://github.com/gilberto-009199/desafio-anotai-backend-aws) - API for a product catalog management system in a marketplace application with S3 and SQS for catalog;
@@ -80,6 +61,7 @@ __English__ | [Português](https://github.com/gilberto-009199/gilberto-009199/bl
         <strong>![Swagger](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/swagger.svg) Swagger</strong>
         <strong>![Kafka](https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/kafka16x16.svg) Kafka</strong>
       </small>
+-->
 
 #### 📫 How to Reach me:
 
