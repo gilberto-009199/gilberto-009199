@@ -22,7 +22,7 @@ mindmap
       PHP
         Laravel Basic
       Utility
-        Queue with RabbitMQ
+        Queue with SQS
         Cache with Redis
         Swagger
     ((Infra/Ops))
